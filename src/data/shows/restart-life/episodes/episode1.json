@@ -1,0 +1,24 @@
+{
+  "number": 1,
+  "title": "第一集：重启的开始",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 1,
+      "japanese": "もしも人生をやり直せるとしたら、何から始めますか？",
+      "romaji": "Moshimo jinsei o yarinaoseru to shitara, nani kara hajimemasu ka?",
+      "chinese": "如果可以重新开始人生，你会从何做起呢？",
+      "context": "开场台词",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 1,
+      "japanese": "結婚する前に、もう一度自分の人生を見つめ直してみようと思います。",
+      "romaji": "Kekkon suru mae ni, mou ichido jibun no jinsei o mitsume naoshite miyou to omoimasu.",
+      "chinese": "在结婚前，我想再重新审视一下自己的人生。",
+      "context": "主角决定重启人生时的台词",
+      "difficulty": "intermediate"
+    }
+  ]
+}

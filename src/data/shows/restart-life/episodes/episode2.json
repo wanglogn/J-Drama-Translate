@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "title": "第二集：第二次机会",
+  "lines": [
+    {
+      "id": 3,
+      "episode": 2,
+      "japanese": "何度も同じ人生を繰り返しているうちに、本当に大切なものが見えてきました。",
+      "romaji": "Nando mo onaji jinsei o kurikaeshite iru uchi ni, hontou ni taisetsu na mono ga miete kimashita.",
+      "chinese": "在无数次重复相同人生的过程中，我终于明白了什么才是真正重要的东西。",
+      "context": "主角经历多次重生后的感悟",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 4,
+      "episode": 2,
+      "japanese": "今回こそ、上手くいくはずです。",
+      "romaji": "Konkai koso, umaku iku hazu desu.",
+      "chinese": "这次一定能顺利成功。",
+      "context": "主角再次尝试改变命运时",
+      "difficulty": "beginner"
+    }
+  ]
+}

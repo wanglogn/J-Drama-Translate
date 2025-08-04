@@ -1,0 +1,24 @@
+{
+  "number": 2,
+  "title": "第二集：意外的转折",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 2,
+      "japanese": "本当にそれでいいのですか？後悔しないですか？",
+      "romaji": "Hontou ni sore de ii no desu ka? Koukai shinai desu ka?",
+      "chinese": "真的可以这样吗？你不会后悔吗？",
+      "context": "女主角犹豫时的台词",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 2,
+      "japanese": "自分の心に素直になりたいと思います。",
+      "romaji": "Jibun no kokoro ni sunao ni naritai to omoimasu.",
+      "chinese": "我想对自己的心坦诚。",
+      "context": "女主角下定决心时的台词",
+      "difficulty": "intermediate"
+    }
+  ]
+}

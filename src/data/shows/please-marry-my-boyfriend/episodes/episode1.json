@@ -1,0 +1,33 @@
+{
+  "number": 1,
+  "title": "第一集：命运的相遇",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 1,
+      "japanese": "運命って本当にあるのだろうか？",
+      "romaji": "Unmei tte hontou ni aru no darou ka?",
+      "chinese": "命运真的存在吗？",
+      "context": "女主角思考人生时的台词",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 1,
+      "japanese": "私はあなたのことが本当に好きです。",
+      "romaji": "Watashi wa anata no koto ga hontou ni suki desu.",
+      "chinese": "我真的很喜欢你。",
+      "context": "女主角告白时的台词",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 1,
+      "japanese": "どんな困難があっても、一緒に乗り越えましょう。",
+      "romaji": "Donna konnan ga atte mo, issho ni norikoemashou.",
+      "chinese": "无论遇到什么困难，我们一起克服吧。",
+      "context": "男主角鼓励女主角时的台词",
+      "difficulty": "intermediate"
+    }
+  ]
+}
