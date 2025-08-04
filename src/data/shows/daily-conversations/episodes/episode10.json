@@ -1,0 +1,456 @@
+{
+  "number": 10,
+  "title": "第十集：交通出行",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 10,
+      "japanese": "あの、すみません。松田駅前に行くバスは、ここでいいですか。",
+      "romaji": "Ano, sumimasen. Matsuda ekimae ni iku basu wa, koko de ii desu ka.",
+      "chinese": "那个，不好意思。请问去松田站口的巴士是在这里坐车吗？",
+      "context": "询问公交站",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 10,
+      "japanese": "あ、Suicaならあります。これで乗れるんですか。",
+      "romaji": "A, Suica nara arimasu. Kore de norerun desu ka.",
+      "chinese": "啊，Suica的话我有。这样我能用它坐车吗？",
+      "context": "询问交通卡使用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 10,
+      "japanese": "はい、乗れますよ。乗るときにタッチすればいいんですよ。",
+      "romaji": "Hai, noreru masu yo. Noru toki ni tatchi sureba ii n desu yo.",
+      "chinese": "有的，当然可以。上车的时候刷卡就行。",
+      "context": "说明使用方法",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 10,
+      "japanese": "この電車は秋葉原に止まりますか？",
+      "romaji": "Kono densha wa Akihabara ni tomari masu ka?",
+      "chinese": "这趟电车在秋叶原停吗？",
+      "context": "询问停车站",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 10,
+      "japanese": "新木場が便利ですよ。",
+      "romaji": "Shin-kiba ga benri desu yo.",
+      "chinese": "从新木场换比较方便。",
+      "context": "推荐换乘站",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 6,
+      "episode": 10,
+      "japanese": "すみません、東京駅への道を教えてください。",
+      "romaji": "Sumimasen, Tokyo eki e no michi o oshiete kudasai.",
+      "chinese": "不好意思，请告诉我去东京站的路。",
+      "context": "问路",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 10,
+      "japanese": "駅までどれくらい歩きますか？",
+      "romaji": "Eki made dore gurai arukimasu ka?",
+      "chinese": "走到车站要多久？",
+      "context": "询问步行时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 10,
+      "japanese": "この道をまっすぐ行ってください。",
+      "romaji": "Kono michi o massugu itte kudasai.",
+      "chinese": "请沿着这条路直走。",
+      "context": "指路",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 9,
+      "episode": 10,
+      "japanese": "次の交差点を右に曲がってください。",
+      "romaji": "Tsugi no kousaten o migi ni magatte kudasai.",
+      "chinese": "在下一个十字路口右转。",
+      "context": "指路",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 10,
+      "japanese": "駅はあそこのビルの向こうにあります。",
+      "romaji": "Eki wa asoko no biru no mukou ni arimasu.",
+      "chinese": "车站在那栋大楼的对面。",
+      "context": "指路",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 10,
+      "japanese": "地下鉄の駅はどこですか？",
+      "romaji": "Chikatetsu no eki wa doko desu ka?",
+      "chinese": "地铁站在哪里？",
+      "context": "询问地铁站",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 12,
+      "episode": 10,
+      "japanese": "山手線はどのホームですか？",
+      "romaji": "Yamanote sen wa dono hoomu desu ka?",
+      "chinese": "山手线在哪个站台？",
+      "context": "询问站台",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 10,
+      "japanese": "次の電車はいつ来ますか？",
+      "romaji": "Tsugi no densha wa itsu kimasu ka?",
+      "chinese": "下一班电车什么时候来？",
+      "context": "询问电车时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 14,
+      "episode": 10,
+      "japanese": "快速電車は停まりますか？",
+      "romaji": "Kaisoku densha wa tomari masu ka?",
+      "chinese": "快车会停吗？",
+      "context": "询问停车情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 10,
+      "japanese": "次の駅は何ですか？",
+      "romaji": "Tsugi no eki wa nan desu ka?",
+      "chinese": "下一站是哪里？",
+      "context": "询问下一站",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 16,
+      "episode": 10,
+      "japanese": "東京駅までの切符をください。",
+      "romaji": "Tokyo eki made no kippu o kudasai.",
+      "chinese": "请给我一张到东京站的票。",
+      "context": "购买车票",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 10,
+      "japanese": "切符はどこで買いますか？",
+      "romaji": "Kippu wa doko de kaimasu ka?",
+      "chinese": "在哪里买票？",
+      "context": "询问购票地点",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 18,
+      "episode": 10,
+      "japanese": "自動券売機の使い方を教えてください。",
+      "romaji": "Jidou kenbai ki no tsukaikata o oshiete kudasai.",
+      "chinese": "请告诉我自动售票机的使用方法。",
+      "context": "请求使用指导",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 10,
+      "japanese": "この切符は有効期限がありますか？",
+      "romaji": "Kono kippu wa yuukou kigen ga arimasu ka?",
+      "chinese": "这张票有有效期吗？",
+      "context": "询问有效期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 10,
+      "japanese": "改札口はどこですか？",
+      "romaji": "Kaisatsu guchi wa doko desu ka?",
+      "chinese": "检票口在哪里？",
+      "context": "询问检票口",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 10,
+      "japanese": "この切符で乗れますか？",
+      "romaji": "Kono kippu de noreru masu ka?",
+      "chinese": "用这张票可以乘车吗？",
+      "context": "确认车票",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 22,
+      "episode": 10,
+      "japanese": "乗り換えはどのようにすればいいですか？",
+      "romaji": "Noriae wa dono you ni sureba ii desu ka?",
+      "chinese": "怎么换乘？",
+      "context": "询问换乘方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 10,
+      "japanese": "乗り換えに時間がかかりますか？",
+      "romaji": "Noriae ni jikan ga kakarimasu ka?",
+      "chinese": "换乘需要时间吗？",
+      "context": "询问换乘时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 10,
+      "japanese": "東京まで何分かかりますか？",
+      "romaji": "Tokyo made nanpun kakarimasu ka?",
+      "chinese": "到东京要多少分钟？",
+      "context": "询问所需时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 10,
+      "japanese": "この電車は遅れていますか？",
+      "romaji": "Kono densha wa okurete imasu ka?",
+      "chinese": "这趟电车晚点了吗？",
+      "context": "询问晚点情况",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 26,
+      "episode": 10,
+      "japanese": "遅れた理由は何ですか？",
+      "romaji": "Okureta riyuu wa nan desu ka?",
+      "chinese": "晚点的原因是什么？",
+      "context": "询问晚点原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 10,
+      "japanese": "列車のダイヤは変更になりましたか？",
+      "romaji": "Ressha no daiya wa henkou ni narimashita ka?",
+      "chinese": "列车时刻表有变更吗？",
+      "context": "询问时刻表变更",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 10,
+      "japanese": "ホームにはどこから降りますか？",
+      "romaji": "Hoomu ni wa doko kara orimasu ka?",
+      "chinese": "从哪里下站台？",
+      "context": "询问下车位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 10,
+      "japanese": "駅にはトイレはありますか？",
+      "romaji": "Eki ni wa toire wa arimasu ka?",
+      "chinese": "车站有厕所吗？",
+      "context": "询问设施",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 30,
+      "episode": 10,
+      "japanese": "駅にはコンビニはありますか？",
+      "romaji": "Eki ni wa konbini wa arimasu ka?",
+      "chinese": "车站有便利店吗？",
+      "context": "询问设施",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 31,
+      "episode": 10,
+      "japanese": "新幹線のチケットを予約したいです。",
+      "romaji": "Shinkansen no chiketto o yoyaku shitai desu.",
+      "chinese": "我想预约新干线票。",
+      "context": "预约车票",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 10,
+      "japanese": "指定席と自由席の違いは何ですか？",
+      "romaji": "Shitei seki to jiyuuse ki no chigai wa nan desu ka?",
+      "chinese": "指定席和自由席有什么区别？",
+      "context": "询问座位类型",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 10,
+      "japanese": "新幹線のご利用はこちらですか？",
+      "romaji": "Shinkansen no goriyou wa kochira desu ka?",
+      "chinese": "新干线在这里乘坐吗？",
+      "context": "询问乘车位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 10,
+      "japanese": "ホームに入るにはどこでチケットをチェックしますか？",
+      "romaji": "Hoomu ni hairu ni wa doko de chiketto o chekku shimasu ka?",
+      "chinese": "在哪里检票进站？",
+      "context": "询问检票位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 10,
+      "japanese": "荷物を預けられますか？",
+      "romaji": "Nimotsu o azukeraremasu ka?",
+      "chinese": "可以寄存行李吗？",
+      "context": "询问行李寄存",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 10,
+      "japanese": "駅のロッカーはどこにありますか？",
+      "romaji": "Eki no rokkkaa wa doko ni arimasu ka?",
+      "chinese": "车站的储物柜在哪里？",
+      "context": "询问储物柜位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "episode": 10,
+      "japanese": "ロッカーの料金はいくらですか？",
+      "romaji": "Rokkaa no ryoukin wa ikura desu ka?",
+      "chinese": "储物柜的费用是多少？",
+      "context": "询问费用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 10,
+      "japanese": "電車の中で飲食はできますか？",
+      "romaji": "Densha no naka de inshoku wa dekimasu ka?",
+      "chinese": "可以在电车里饮食吗？",
+      "context": "询问车内规定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 10,
+      "japanese": "電車の中で携帯電話を使ってもいいですか？",
+      "romaji": "Densha no naka de keitai denwa o tsukatte mo ii desu ka?",
+      "chinese": "可以在电车里使用手机吗？",
+      "context": "询问车内规定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 10,
+      "japanese": "優先席はどこですか？",
+      "romaji": "Yuusen seki wa doko desu ka?",
+      "chinese": "优先席在哪里？",
+      "context": "询问优先席位置",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 41,
+      "episode": 10,
+      "japanese": "この電車は禁煙ですか？",
+      "romaji": "Kono densha wa kin'en desu ka?",
+      "chinese": "这趟电车是禁烟的吗？",
+      "context": "询问禁烟规定",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 42,
+      "episode": 10,
+      "japanese": "駅構内にWi-Fiはありますか？",
+      "romaji": "Eki kounai ni Wi-Fi wa arimasu ka?",
+      "chinese": "车站内有Wi-Fi吗？",
+      "context": "询问网络",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 10,
+      "japanese": "電話ボックスはどこですか？",
+      "romaji": "Denwa bokkusu wa doko desu ka?",
+      "chinese": "电话亭在哪里？",
+      "context": "询问电话亭位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 10,
+      "japanese": "機内食はありますか？",
+      "romaji": "Kinou shoku wa arimasu ka?",
+      "chinese": "有餐车吗？",
+      "context": "询问餐饮服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 10,
+      "japanese": "電車の中で充電できますか？",
+      "romaji": "Densha no naka de juuden dekimasu ka?",
+      "chinese": "可以在电车里面充电吗？",
+      "context": "询问充电设施",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 10,
+      "japanese": "この電車は終点ですか？",
+      "romaji": "Kono densha wa shuten desu ka?",
+      "chinese": "这趟电车是终点站吗？",
+      "context": "询问终点站",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 47,
+      "episode": 10,
+      "japanese": "次の電車は何時発ですか？",
+      "romaji": "Tsugi no densha wa nanji hatsu desu ka?",
+      "chinese": "下一班电车几点发车？",
+      "context": "询问发车时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 10,
+      "japanese": "終電は何時ですか？",
+      "romaji": "Shuden wa nanji desu ka?",
+      "chinese": "末班车是几点？",
+      "context": "询问末班车时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 49,
+      "episode": 10,
+      "japanese": "始発は何時ですか？",
+      "romaji": "Shihatsu wa nanji desu ka?",
+      "chinese": "首班车是几点？",
+      "context": "询问首班车时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 50,
+      "episode": 10,
+      "japanese": "駅員さん、道を教えてください。",
+      "romaji": "Ekitei san, michi o oshiete kudasai.",
+      "chinese": "站务员，请告诉我路。",
+      "context": "向站务员问路",
+      "difficulty": "intermediate"
+    }
+  ]
+}

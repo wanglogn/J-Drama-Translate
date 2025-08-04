@@ -26,6 +26,20 @@ import marryBoyfriendEpisode10 from './shows/please-marry-my-boyfriend/episodes/
 import marryBoyfriendEpisode11 from './shows/please-marry-my-boyfriend/episodes/episode11.json';
 import marryBoyfriendEpisode12 from './shows/please-marry-my-boyfriend/episodes/episode12.json';
 
+ // 导入日常日语会话剧集数据
+ import dailyConvEpisode1 from './shows/daily-conversations/episodes/episode1.json';
+ import dailyConvEpisode2 from './shows/daily-conversations/episodes/episode2.json';
+ import dailyConvEpisode3 from './shows/daily-conversations/episodes/episode3.json';
+ import dailyConvEpisode4 from './shows/daily-conversations/episodes/episode4.json';
+ import dailyConvEpisode5 from './shows/daily-conversations/episodes/episode5.json';
+ import dailyConvEpisode6 from './shows/daily-conversations/episodes/episode6.json';
+ import dailyConvEpisode7 from './shows/daily-conversations/episodes/episode7.json';
+ import dailyConvEpisode8 from './shows/daily-conversations/episodes/episode8.json';
+ import dailyConvEpisode9 from './shows/daily-conversations/episodes/episode9.json';
+ import dailyConvEpisode10 from './shows/daily-conversations/episodes/episode10.json';
+ import dailyConvEpisode11 from './shows/daily-conversations/episodes/episode11.json';
+ import dailyConvEpisode12 from './shows/daily-conversations/episodes/episode12.json';
+
 // 翻译项目接口定义
 export interface TranslationItem {
   id: number;
@@ -60,23 +74,39 @@ const showData = {
       restartLifeEpisode10
     ] as EpisodeData[]
   },
-   'please-marry-my-boyfriend': {
+  'please-marry-my-boyfriend': {
+    episodes: [
+      marryBoyfriendEpisode1,
+      marryBoyfriendEpisode2,
+      marryBoyfriendEpisode3,
+      marryBoyfriendEpisode4,
+      marryBoyfriendEpisode5,
+      marryBoyfriendEpisode6,
+      marryBoyfriendEpisode7,
+      marryBoyfriendEpisode8,
+      marryBoyfriendEpisode9,
+      marryBoyfriendEpisode10,
+      marryBoyfriendEpisode11,
+      marryBoyfriendEpisode12
+    ] as EpisodeData[]
+   },
+   'daily-conversations': {
      episodes: [
-       marryBoyfriendEpisode1,
-       marryBoyfriendEpisode2,
-       marryBoyfriendEpisode3,
-       marryBoyfriendEpisode4,
-       marryBoyfriendEpisode5,
-       marryBoyfriendEpisode6,
-       marryBoyfriendEpisode7,
-       marryBoyfriendEpisode8,
-       marryBoyfriendEpisode9,
-       marryBoyfriendEpisode10,
-       marryBoyfriendEpisode11,
-       marryBoyfriendEpisode12
+       dailyConvEpisode1,
+       dailyConvEpisode2,
+       dailyConvEpisode3,
+       dailyConvEpisode4,
+       dailyConvEpisode5,
+       dailyConvEpisode6,
+       dailyConvEpisode7,
+       dailyConvEpisode8,
+       dailyConvEpisode9,
+       dailyConvEpisode10,
+       dailyConvEpisode11,
+       dailyConvEpisode12
      ] as EpisodeData[]
    }
-};
+ };
 
 // 获取指定剧集的所有集数信息
 export const getEpisodesByShow = (showId: string) => {

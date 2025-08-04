@@ -1,0 +1,455 @@
+{
+  "number": 3,
+  "title": "第三集：购物与咨询",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 3,
+      "japanese": "そう。全体の文字数からそれぞれの章で何文字使えるかってね。",
+      "romaji": "Sou. Zentai no moji kazu kara sorezore no shou de nan moji tsukaeru ka tte ne.",
+      "chinese": "是的，比如总共要写多少字，各个章节的字数分别要怎么安排。",
+      "context": "论文写作建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 3,
+      "japanese": "構成ですか？",
+      "romaji": "Kousei desu ka?",
+      "chinese": "框架结构啊",
+      "context": "确认理解",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 3,
+      "japanese": "そうだね。色々あるけど、まずは書く前に構成を考えるべきですね。",
+      "romaji": "Soudane. Iroiro aru kedo, mazu wa kaku mae ni kousei o kangaeru beki desu ne.",
+      "chinese": "怎么说呢。诀窍的话有很多。首先在写之前要考虑好整体的框架结构。",
+      "context": "提供建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 3,
+      "japanese": "先生、レポートをうまく書くコツってありますか。",
+      "romaji": "Sensei, repo-to o umaku kaku kotsu tte arimasu ka.",
+      "chinese": "老师，有什么能把报告写好的诀窍吗?",
+      "context": "寻求建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 3,
+      "japanese": "ちょっと待ってください。今、調べますから。",
+      "romaji": "Chotto matte kudasai. Ima, shirabe masu kara.",
+      "chinese": "稍等，我查一下。",
+      "context": "请求等待",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 6,
+      "episode": 3,
+      "japanese": "いえ、一昨日なんですが。届いてますか？",
+      "romaji": "Ie, ototoi nan desu ga. Todoitemasu ka?",
+      "chinese": "不是，是前天忘的。有人送过来吗?",
+      "context": "确认物品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 3,
+      "japanese": "え？カバンですか。今日ですか？",
+      "romaji": "E? Kaban desu ka. Kyou desu ka?",
+      "chinese": "诶?包吗?今天忘的吗?",
+      "context": "确认信息",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 3,
+      "japanese": "あのー、カバン、C-101教室に置き忘れちゃったんですけど…。",
+      "romaji": "Anoー, kaban, C-101 kyoushitsu ni okiwasure chatta n desu kedo....",
+      "chinese": "那个，我把包忘在C-101号教室里了……",
+      "context": "报告遗失物品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 3,
+      "japanese": "それは、一石二鳥ってことですね。",
+      "romaji": "Sore wa, isseki nichou tte koto desu ne.",
+      "chinese": "这可真是，一石二鸟的好事啊。",
+      "context": "评价情况",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 10,
+      "episode": 3,
+      "japanese": "敬語を練習する機会になるし、まかないもあるからです。",
+      "romaji": "Keigo o renshuu suru kikai ni naru shi, makanai mo aru kara desu.",
+      "chinese": "刚好可以借此机会练习一下敬语，听说还包饭。",
+      "context": "解释原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 3,
+      "japanese": "へー、旅館？でも、どうして？",
+      "romaji": "Heー, ryokan? Demo, doushite?",
+      "chinese": "哦?旅馆?不过，为什么啊?",
+      "context": "表示惊讶",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 12,
+      "episode": 3, 
+      "japanese": "夏休みは旅館でアルバイトをしたいんです。",
+      "romaji": "Natsuyasumi wa ryokan de arubaito o shitain desu.",
+      "chinese": "暑假我想去旅馆打工。",
+      "context": "说明计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 3,
+      "japanese": "うん。でも、実は去年と同じ目標なんだ。今年こそ実現させたいよ。",
+      "romaji": "Un. Demo, jitsu wa kyonen to onaji mokuhyou nan da. Kotoshi koso jitsugen sasetai yo.",
+      "chinese": "嗯。不过其实和去年是一样的目标。希望今年能够实现。",
+      "context": "表达决心",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 3,
+      "japanese": "「継続は力なり」だね。",
+      "romaji": "\"Keizoku wa chikara nari\" da ne.",
+      "chinese": "坚持就是胜利啊。",
+      "context": "引用谚语",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 3,
+      "japanese": "うん。英会話を始めようと思っているから、それを続けることかな。",
+      "romaji": "Un. Eikaiwa o hajimeyou to omotte iru kara, sore o tsudzukeru koto kana.",
+      "chinese": "嗯。今年我想开始学习英语会话。不知道能不能坚持下去。",
+      "context": "谈论计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 3,
+      "japanese": "何か今年の目標ってある？",
+      "romaji": "Nanka kotoshi no mokuhyou tte aru?",
+      "chinese": "今年有什么目标吗?",
+      "context": "询问计划",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 3,
+      "japanese": "わかりました。課長に伝えておきます。お気をつけて。","romaji": "Wakarimashita. Kachou ni tsutaete okimasu. Oki o tsukete.",
+      "chinese": "明白了。我会转告课长的你注意安全。",
+      "context": "回应请求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 3,
+      "japanese": "目黒のあたりです。それで会議、もし間に合わなければ、先に始めててもらえますか。",
+      "romaji": "Meguro no atari desu. Sore de kaigi, moshi maniawanakereba, saki ni hajimetete moraemasu ka.",
+      "chinese": "在目黑附近。如果我赶不上会议的话，你们就先开始吧",
+      "context": "说明情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 3,
+      "japanese": "もしもし。鈴木です。今、電車の中なんですが、緊急停車してしまって。",
+      "romaji": "Moshi moshi. Suzuki desu. Ima, densha no naka nan desu ga, kinkyuu teisha shite shimatte.",
+      "chinese": "喂，我是铃木。我现在在电车上，刚刚紧急停车了。",
+      "context": "报告紧急情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 3,
+      "japanese": "あら、どちらですか。",
+      "romaji": "Ara, dochira desu ka.",
+      "chinese": "这可真是……停在哪里了?",
+      "context": "询问位置",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 3,
+      "japanese": "へー、それは助かりますね。",
+      "romaji": "Heー, sore wa tasukarimasu ne.",
+      "chinese": "这样啊，这可真方便。",
+      "context": "表达感激",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 22,
+      "episode": 3,
+      "japanese": "前の住所に来た手紙も、ちゃんと新しいところまで届けてくれるんですよ。",
+      "romaji": "Mae no juusho ni kita tegami mo, chanto atarashii tokoro made todokete kureru n desu yo.",
+      "chinese": "这样的话就算有信寄到你原来的地方，也会好好送到你新的住址。",
+      "context": "解释服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 3,
+      "japanese": "えー、そうなんですか〜？",
+      "romaji": "Eー, sounan desu ka〜?",
+      "chinese": "诶?这样的吗?",
+      "context": "表示惊讶",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 24,
+      "episode": 3,
+      "japanese": "引越しする時は、郵便局に新しい住所を届けると便利ですよ。",
+      "romaji": "Hikkoshi suru toki wa, yuubin kyoku ni atarashii juusho o todokeru to benri desu yo.",
+      "chinese": "搬家的时候，告知邮局你的新地址会比较好哦。",
+      "context": "提供建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 3,
+      "japanese": "そうだね。でもたき火は危ないからやめようか。",
+      "romaji": "Soudane. Demo takibi wa abunai kara yameyou ka.",
+      "chinese": "也是。不过篝火的话太危险了，还是不要点了。",
+      "context": "提出建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 3,
+      "japanese": "まー、山はよく見えるけどね。",
+      "romaji": "Maa, yama wa yoku mieru kedo ne.",
+      "chinese": "不过，山还是能看清楚的。",
+      "context": "表达让步",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 27,
+      "episode": 3,
+      "japanese": "うん、初めてのキャンプには、厳しいかもね。",
+      "romaji": "Un, hajimete no kyanpu ni wa, kibishii kamo ne.",
+      "chinese": "嗯，第一次出去露营，感觉会有点难度啊。",
+      "context": "表达担忧",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 3,
+      "japanese": "よりによって今日は風が強いね。",
+      "romaji": "Yorini yotte kyou wa kaze ga tsuyoi ne.",
+      "chinese": "好巧不巧，偏偏今天这么大风",
+      "context": "抱怨天气",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 3,
+      "japanese": "えー、顔ぐらい洗ってよね。",
+      "romaji": "Eー, kao gurai aratte yo ne.",
+      "chinese": "诶?好歹洗个脸吧……",
+      "context": "提出建议",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 30,
+      "episode": 3,
+      "japanese": "うん。でも焦った。顔を洗う暇もなかったよ。",
+      "romaji": "Un. Demo asetta. Kao o arau hima mo nakatta yo.",
+      "chinese": "嗯，不过真是急坏我了。连洗脸的时间都没有。",
+      "context": "解释情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 3,
+      "japanese": "へー。でもよく間に合ったね。",
+      "romaji": "Heー. Demo yoku maniatta ne.",
+      "chinese": "哇，真亏你能赶上。",
+      "context": "表示惊讶",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 32,
+      "episode": 3,
+      "japanese": "今日、寝過ごしてびっくりしたよ。起きたらもう8時なんだもん。",
+      "romaji": "Kyou, nesugoshite bikkuri shita yo. Okitara mou 8-ji nan da mon.",
+      "chinese": "今天发现睡过头的时候吓了一跳。醒过来就已经8点了。",
+      "context": "解释迟到原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 3,
+      "japanese": "では、再発行が可能ですが、なさいますか？",
+      "romaji": "Dewa, saihappyou ga kanou desu ga, nasaimasu ka?",
+      "chinese": "那可以帮您补的，需要补办一张吗?",
+      "context": "提供服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 3,
+      "japanese": "はい、しています。",
+      "romaji": "Hai, shite imasu.",
+      "chinese": "有的。",
+      "context": "肯定回答",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 35,
+      "episode": 3,
+      "japanese": "お名前、生年月日など登録されていますか？",
+      "romaji": "Onamae, seinenngappi nado touroku sarete imasu ka?",
+      "chinese": "您有注册姓名和出生年月日吗?",
+      "context": "询问信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 3,
+      "japanese": "すみません。Suicaを落としちゃったんですが。",
+      "romaji": "Sumimasen. Suica o otoshichatta n desu ga.",
+      "chinese": "不好意思打扰一下，我的Suica丢了。",
+      "context": "报告遗失",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "episode": 3,
+      "japanese": "火事の時と同じ119番です。",
+      "romaji": "Kaji no toki to onaji 119 ban desu.",
+      "chinese": "和火警电话一样，都是119。",
+      "context": "提供信息",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 38,
+      "episode": 3,
+      "japanese": "そうですよ。",
+      "romaji": "Soudesu yo.",
+      "chinese": "是的。",
+      "context": "肯定回答",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 39,
+      "episode": 3,
+      "japanese": "じゃ、救急車を呼びたい時は？",
+      "romaji": "Jaa, kyuukyuusha o yobitai toki wa?",
+      "chinese": "那叫救护车的时候呢?",
+      "context": "询问信息",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 40,
+      "episode": 3,
+      "japanese": "警察は110番ですよね。",
+      "romaji": "Keisatsu wa 110 ban desu yo ne.",
+      "chinese": "报警电话是110对吧?",
+      "context": "确认信息",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 41,
+      "episode": 3,
+      "japanese": "そう。三連休の中日です。",
+      "romaji": "Sou. Sanrenkyuu no chuunichi desu.",
+      "chinese": "是的，三连休的中间那天。",
+      "context": "提供信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 3,
+      "japanese": "え、10日でしたっけ？",
+      "romaji": "E, 10-nichi deshita kke?",
+      "chinese": "诶?是10号吗?",
+      "context": "确认日期",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 43,
+      "episode": 3,
+      "japanese": "えーと、確か10日の午後3時からです。",
+      "romaji": "Eeto, tashika 10-nichi no gogo 3-ji kara desu.",
+      "chinese": "呃……我记得是10号的3点开始。",
+      "context": "提供信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 3,
+      "japanese": "森さんの結婚式っていつでしたっけ？",
+      "romaji": "Mori-san no kekkonshiki tte itsu deshita kke?",
+      "chinese": "森先生(小姐)的婚礼是什么时候来着?",
+      "context": "询问日期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 3,
+      "japanese": "うん。ちょっと検索してみるね。",
+      "romaji": "Un. Chotto kensaku shite miru ne.",
+      "chinese": "嗯。我查一下。",
+      "context": "采取行动",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 46,
+      "episode": 3,
+      "japanese": "そうだね。いくつぐらいかあるのかな。",
+      "romaji": "Soudane. Ikutsu gurai kaa ru no kana.",
+      "chinese": "是哦。不知道大概要花多少钱。",
+      "context": "表达不确定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 3,
+      "japanese": "いいね。バスツアーが楽しみだね。今ならいちご狩りとかも。",
+      "romaji": "Ii ne. Basu tsuuaa ga tanoshimi da ne. Ima nara ichigo gari toka mo.",
+      "chinese": "不错诶。巴士旅行也不错。现在的话采草莓什么的也不错。",
+      "context": "表达期待",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 3,
+      "japanese": "来週末、近場の温泉とか、小旅行に行きたいな。",
+      "romaji": "Raishuumatsu, chikaba no onsen toka, kotabi ni ikitai na.",
+      "chinese": "下周末想去附近的温泉什么的小小地旅游一下。",
+      "context": "表达愿望",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 3,
+      "japanese": "うーん。そりゃ、そのうちは、そのうちだよ。",
+      "romaji": "Uun. Sorya, sono uchi wa, sono uchi da yo.",
+      "chinese": "呃……反正就是过段时间去啦，过段时间。",
+      "context": "含糊回应",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 3,
+      "japanese": "そのうちっていつ？",
+      "romaji": "Sono uchi tte itsu?",
+      "chinese": "过段时间是什么时候?",
+      "context": "追问详情",
+      "difficulty": "beginner"
+    }
+  ]
+}

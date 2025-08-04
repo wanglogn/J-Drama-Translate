@@ -1,0 +1,456 @@
+{
+  "number": 11,
+  "title": "第十一集：物流配送",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 11,
+      "japanese": "すみません、宅配便、お願いしたいんですけど。",
+      "romaji": "Sumimasen, takuhaibin, onegaishitain desu kedo.",
+      "chinese": "不好意思打扰一下，我想要寄个快递。",
+      "context": "寄快递",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 11,
+      "japanese": "はい。あ、荷物の中身はなんですか。",
+      "romaji": "Hai. A, nimotsu no nakami wa nan desu ka.",
+      "chinese": "是的。你包裹里装的是什么？",
+      "context": "询问包裹内容",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 11,
+      "japanese": "服と、食べ物が少し入ってます。",
+      "romaji": "Fuku to, tabemono ga sukoshi haitte masu.",
+      "chinese": "衣服，还有一点吃的。",
+      "context": "说明包裹内容",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 11,
+      "japanese": "はい。あと、時間指定はできますか。",
+      "romaji": "Hai. Ato, jikan shitei wa dekimasu ka.",
+      "chinese": "好的。对了，这个可以指定派送时间吗？",
+      "context": "询问时间指定",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 11,
+      "japanese": "えーと、じゃあ、19時から21時でお願いします。",
+      "romaji": "Eeto, jaa, 19-ji kara 21-ji de onegaishimasu.",
+      "chinese": "呃，那就19点~21点吧。",
+      "context": "指定配送时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 11,
+      "japanese": "この荷物を送りたいです。",
+      "romaji": "Kono nimotsu o okuritai desu.",
+      "chinese": "我想寄这个包裹。",
+      "context": "寄包裹",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 11,
+      "japanese": "宛先を書いてください。",
+      "romaji": "Atesaki o kaite kudasai.",
+      "chinese": "请填写收件地址。",
+      "context": "填写地址",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 11,
+      "japanese": "送り主の名前と電話番号を書いてください。",
+      "romaji": "Okurimono no namae to denwa bangou o kaite kudasai.",
+      "chinese": "请填写寄件人姓名和电话号码。",
+      "context": "填写寄件人信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 11,
+      "japanese": "荷物の重量はいくらですか？",
+      "romaji": "Nimotsu no juuryou wa ikura desu ka?",
+      "chinese": "包裹重量是多少？",
+      "context": "询问重量",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 11,
+      "japanese": "この荷物はいくらですか？",
+      "romaji": "Kono nimotsu wa ikura desu ka?",
+      "chinese": "这个包裹多少钱？",
+      "context": "询问费用",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 11,
+      "episode": 11,
+      "japanese": "速達と普通配送どちらにしますか？",
+      "romaji": "Sokutatsu to futsuu haiso dochira ni shimasu ka?",
+      "chinese": "要快递还是普通配送？",
+      "context": "选择配送方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 11,
+      "japanese": "いつ届きますか？",
+      "romaji": "Itsu todokimasu ka?",
+      "chinese": "什么时候能到？",
+      "context": "询问送达时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 13,
+      "episode": 11,
+      "japanese": "保険をかけたいです。",
+      "romaji": "Hoken o kaketai desu.",
+      "chinese": "我想加保险。",
+      "context": "加保险",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 11,
+      "japanese": "配達証明は必要ですか？",
+      "romaji": "Haitatsu shoumei wa hitsuyou desu ka?",
+      "chinese": "需要配送证明吗？",
+      "context": "询问证明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 11,
+      "japanese": "受取人が不在の場合はどうなりますか？",
+      "romaji": "Uketori nin ga fuzai no baai wa dou narimasu ka?",
+      "chinese": "如果收件人不在怎么办？",
+      "context": "询问不在情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 11,
+      "japanese": "ロッカーに預けてもらえますか？",
+      "romaji": "Rokkaa ni azukete moraemasu ka?",
+      "chinese": "可以放在储物柜吗？",
+      "context": "请求寄存",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 11,
+      "japanese": "再配達はいつですか？",
+      "romaji": "Saihaitatsu wa itsu desu ka?",
+      "chinese": "什么时候重新配送？",
+      "context": "询问再配送时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 11,
+      "japanese": "この荷物は追跡できますか？",
+      "romaji": "Kono nimotsu wa tsuizeki dekimasu ka?",
+      "chinese": "这个包裹可以追踪吗？",
+      "context": "询问追踪服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 11,
+      "japanese": "追跡番号を教えてください。",
+      "romaji": "Tsuizeki bangou o oshiete kudasai.",
+      "chinese": "请告诉我追踪号码。",
+      "context": "请求追踪号码",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 11,
+      "japanese": "国際配送はできますか？",
+      "romaji": "Kokusai haiso wa dekimasu ka?",
+      "chinese": "可以国际配送吗？",
+      "context": "询问国际配送",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 11,
+      "japanese": "関税はかかりますか？",
+      "romaji": "Kanzei wa kakarimasu ka?",
+      "chinese": "会产生关税吗？",
+      "context": "询问关税",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 11,
+      "japanese": "危険物は送れますか？",
+      "romaji": "Kikenbutsu wa okuremasu ka?",
+      "chinese": "可以寄危险品吗？",
+      "context": "询问禁运品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 11,
+      "japanese": "液体は送れますか？",
+      "romaji": "Ekitai wa okuremasu ka?",
+      "chinese": "可以寄液体吗？",
+      "context": "询问液体寄送",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 11,
+      "japanese": "冷蔵配送はできますか？",
+      "romaji": "Reizou haiso wa dekimasu ka?",
+      "chinese": "可以冷藏配送吗？",
+      "context": "询问特殊配送",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 11,
+      "japanese": "宅配便の集荷サービスはありますか？",
+      "romaji": "Takuhaibin no shuukaku saabisu wa arimasu ka?",
+      "chinese": "有上门取件服务吗？",
+      "context": "询问取件服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 11,
+      "japanese": "集荷を予約したいです。",
+      "romaji": "Shuukaku o yoyaku shitai desu.",
+      "chinese": "我想预约取件。",
+      "context": "预约取件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 11,
+      "japanese": "いつ集荷に来ますか？",
+      "romaji": "Itsu shuukaku ni kimasu ka?",
+      "chinese": "什么时候来取件？",
+      "context": "询问取件时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 11,
+      "japanese": "荷物を受け取るときに身分証明が必要ですか？",
+      "romaji": "Nimotsu o uketoru toki ni mibun shoumei ga hitsuyou desu ka?",
+      "chinese": "取包裹时需要身份证明吗？",
+      "context": "询问取件要求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 11,
+      "japanese": "不在のときに配達されましたか？",
+      "romaji": "Fuzai no toki ni haitatsu saremashita ka?",
+      "chinese": "我不在的时候派送了吗？",
+      "context": "询问派送情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 11,
+      "japanese": "荷物が届きません。",
+      "romaji": "Nimotsu ga todokimasen.",
+      "chinese": "我的包裹没收到。",
+      "context": "投诉未收到",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 31,
+      "episode": 11,
+      "japanese": "荷物が破損しています。",
+      "romaji": "Nimotsu ga hason shite imasu.",
+      "chinese": "包裹破损了。",
+      "context": "投诉破损",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 11,
+      "japanese": "補償を請求したいです。",
+      "romaji": "Hoshou o seikyuu shitai desu.",
+      "chinese": "我想要求赔偿。",
+      "context": "要求赔偿",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 11,
+      "japanese": "配達先を変更したいです。",
+      "romaji": "Haitatsusaki o henkou shitai desu.",
+      "chinese": "我想更改配送地址。",
+      "context": "更改地址",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 11,
+      "japanese": "配達日を変更できますか？",
+      "romaji": "Haitatsu bi o henkou dekimasu ka?",
+      "chinese": "可以更改配送日期吗？",
+      "context": "更改日期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 11,
+      "japanese": "この伝票は何ですか？",
+      "romaji": "Kono denshou wa nan desu ka?",
+      "chinese": "这张单子是什么？",
+      "context": "询问单据",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 36,
+      "episode": 11,
+      "japanese": "領収書をください。",
+      "romaji": "Ryoushuu sho o kudasai.",
+      "chinese": "请给我收据。",
+      "context": "请求收据",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 37,
+      "episode": 11,
+      "japanese": "クレジットカードで支払います。",
+      "romaji": "Kurejitto ka-do de shiharai masu.",
+      "chinese": "我用信用卡支付。",
+      "context": "选择支付方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 11,
+      "japanese": "宅配ボックスに入れてください。",
+      "romaji": "Takuhaibin bokkusu ni irete kudasai.",
+      "chinese": "请放进快递箱。",
+      "context": "指定放置位置",
+      "intermediate": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 11,
+      "japanese": "隣のドアに置いてください。",
+      "romaji": "Tonari no doa ni oite kudasai.",
+      "chinese": "请放在隔壁门口。",
+      "context": "指定放置位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 11,
+      "japanese": "受取人に電話してください。",
+      "romaji": "Uketori nin ni denwa shite kudasai.",
+      "chinese": "请给收件人打电话。",
+      "context": "请求联系收件人",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 11,
+      "japanese": "この荷物は軽いですが、サイズが大きいです。",
+      "romaji": "Kono nimotsu wa karui desu ga, saizu ga ookii desu.",
+      "chinese": "这个包裹很轻，但是尺寸很大。",
+      "context": "说明包裹情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 11,
+      "japanese": "サイズ制限はありますか？",
+      "romaji": "Saizu seigen wa arimasu ka?",
+      "chinese": "有尺寸限制吗？",
+      "context": "询问尺寸限制",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 11,
+      "japanese": "この配送サービスはどこまで配達しますか？",
+      "romaji": "Kono haiso saabisu wa doko made haitatsu shimasu ka?",
+      "chinese": "这个配送服务能送到哪里？",
+      "context": "询问配送范围",
+      "intermediate": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 11,
+      "japanese": "離島にも送れますか？",
+      "romaji": "Ritou ni mo okuremasu ka?",
+      "chinese": "可以送到离岛吗？",
+      "context": "询问特殊地区配送",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 11,
+      "japanese": "今日中に発送してもらえますか？",
+      "romaji": "Kyoujuu ni hassou shite moraemasu ka?",
+      "chinese": "今天能发货吗？",
+      "context": "要求当天发货",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 11,
+      "japanese": "配送状況を教えてください。",
+      "romaji": "Haitatsu joukyou o oshiete kudasai.",
+      "chinese": "请告诉我配送情况。",
+      "context": "询问配送进度",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 11,
+      "japanese": "荷物を返送したいです。",
+      "romaji": "Nimotsu o henso shitaidesu.",
+      "chinese": "我想退货。",
+      "context": "要求退货",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 11,
+      "japanese": "返送手続きはどうすればいいですか？",
+      "romaji": "Henso tetsuzuki wa dou sureba ii desu ka?",
+      "chinese": "退货手续怎么办？",
+      "context": "询问退货流程",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 11,
+      "japanese": "この伝票で返送できますか？",
+      "romaji": "Kono denshou de henso dekimasu ka?",
+      "chinese": "用这张单子可以退货吗？",
+      "context": "询问退货方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 11,
+      "japanese": "ありがとうございます。",
+      "romaji": "Arigatou gozaimashita.",
+      "chinese": "谢谢。",
+      "context": "感谢",
+      "difficulty": "beginner"
+    }
+  ]
+}

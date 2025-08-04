@@ -1,0 +1,456 @@
+{
+  "number": 2,
+  "title": "第二集：就医与健康",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 2,
+      "japanese": "あれ！エクトルさん。久しぶりですね。卒業以来ですね。",
+      "romaji": "Are! Ekutoru-san. Hisashiburi desu ne. Sotsugyou irai desu ne.",
+      "chinese": "咦?赫克托?好久不见啊。从你毕业以后就没见过面了啦。",
+      "context": "偶遇老同学",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 2,
+      "japanese": "先生、ご無沙汰してます。",
+      "romaji": "Sensei, gobusata shitemasu.",
+      "chinese": "老师，好久不见，别来无恙。",
+      "context": "问候老师",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 2,
+      "japanese": "はい。バンコクから14時着のKS2便ですね。では、お調べします。",
+      "romaji": "Hai. Bankoku kara 14-ji chaku no KS2 bin desu ne. Dewa, oshirabe shimasu.",
+      "chinese": "好的，从曼谷出发，14点抵达的KS2号航班对吗? 我查一下。",
+      "context": "机场查询行李",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 2,
+      "japanese": "あ、これ、飛行機のチケットです。それとこれが荷物のばんごうです。",
+      "romaji": "A, kore, hikouki no chiketto desu. Sore to kore ga nimotsu no bangou desu.",
+      "chinese": "哦，这是机票，这个和这个是行李编号。",
+      "context": "出示证件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 2,
+      "japanese": "便名はお分かりになりますか。",
+      "romaji": "Binmei wa o wakarininarimasu ka.",
+      "chinese": "您的航班号是多少?",
+      "context": "询问信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 2,
+      "japanese": "あの、私の黒いスーツケースが、出て来ないんですが。",
+      "romaji": "Ano, watashi no kuroi suutsukeesu ga, dete konain desu ga.",
+      "chinese": "那个，我的黑色的行李箱没出来。",
+      "context": "报告问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 2,
+      "japanese": "ありがとうございます。ぜひ行きたいですね。",
+      "romaji": "Arigatou gozaimasu. Zehi ikitai desu ne.",
+      "chinese": "谢谢，有机会一定去。",
+      "context": "接受邀请",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 2,
+      "japanese": "ぜひ、遊びに来てください。ご案内しますから。",
+      "romaji": "Zehi, asobi ni kite kudasai. Goannai shimasu kara.",
+      "chinese": "请务必来玩呀，我来当向导。",
+      "context": "发出邀请",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 2,
+      "japanese": "そうですかー。寂しくなりますねー。",
+      "romaji": "Soudesukaー. Sabishiku narimasu neー.",
+      "chinese": "是吗，感觉要寂寞了。",
+      "context": "表达不舍",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 2,
+      "japanese": "いろいろお世話になりました。明日、国に帰ります。",
+      "romaji": "Iroiro osewa ni narimashita. Ashita, kuni ni kaerimasu.",
+      "chinese": "这些日子真是承蒙关照了，我明天就回国了。",
+      "context": "告别感谢",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 2,
+      "japanese": "あ、ありがとうございます。お願いします。",
+      "romaji": "A, arigatou gozaimasu. Onegaishimasu.",
+      "chinese": "啊，谢谢。拜托了。",
+      "context": "请求帮助",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 12,
+      "episode": 2,
+      "japanese": "連絡はこちらでしておきます。",
+      "romaji": "Renraku wa kochira de shite okimasu.",
+      "chinese": "我们这边会帮您联系好的。",
+      "context": "承诺帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 2,
+      "japanese": "はい、そのつもりです。連絡はどうすればいいですか。",
+      "romaji": "Hai, sono tsumori desu. Renraku wa dou sureba ii desu ka.",
+      "chinese": "是的，我是这么打算的。我要联系哪里，怎么联系啊?",
+      "context": "询问联系方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 2,
+      "japanese": "引っ越し当日まで電気、水道、ガスをご利用ですか。",
+      "romaji": "Hikkoshi toujitsu made denki, suidou, gasu o goriyou desu ka.",
+      "chinese": "水电气一直用到搬家当天是吗?",
+      "context": "确认服务期限",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 2,
+      "japanese": "はい、承知しました。何日をご予定ですか。",
+      "romaji": "Hai, shouchii shimashita. Nan nichi o goyotei desu ka.",
+      "chinese": "好的，明白了。预计几号解约呢?",
+      "context": "询问日期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 2,
+      "japanese": "あのー、来月、国に帰るので部屋を解約したいんですが。",
+      "romaji": "Anoー, raigetsu, kuni ni kaeru node heya o kaiketsu shitain desu ga.",
+      "chinese": "那个，下个月，我要回国了，想把房子解约一下。",
+      "context": "说明解约原因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 2,
+      "japanese": "こんにちは。お世話になっております。",
+      "romaji": "Konnichiwa. Osewa ni natte orimasu.",
+      "chinese": "你好。一直以来承蒙关照。",
+      "context": "问候语",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 18,
+      "episode": 2,
+      "japanese": "あのー、すみません、さくらハイツ202のエクトルですが。",
+      "romaji": "Anoー, sumimasen, Sakura Haitsu 202 no Ekutoru desu ga.",
+      "chinese": "那个，不好意思打扰一下，我是住在Sakura Heights 202室的赫克托。",
+      "context": "自我介绍",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 2,
+      "japanese": "あ〜、本当に気持ちよかった。軽くなった。",
+      "romaji": "A〜, hontou ni kimochi yokatta. Karuku natta.",
+      "chinese": "啊~真舒服。感觉轻松多了。",
+      "context": "表达舒适",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 20,
+      "episode": 2,
+      "japanese": "いえいえ。",
+      "romaji": "Ieie.",
+      "chinese": "不客气。",
+      "context": "回应感谢",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 2,
+      "japanese": "すごい肩、こってるね。どう？",
+      "romaji": "Sugoi kata, kotteru ne. Dou?",
+      "chinese": "你肩膀还真是僵得不得了。",
+      "context": "关心对方身体",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 2,
+      "japanese": "あ〜、すごく気持ちいい。あ、もういいよ。どうもありがとう。",
+      "romaji": "A〜, sugoku kimochiii. A, mou ii yo. Doumo arigatou.",
+      "chinese": "啊~太舒服了。啊，可以了。谢谢。",
+      "context": "感谢按摩",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 2,
+      "japanese": "もちろん。お安い御用。",
+      "romaji": "Mochiron. O yasui gotyou.",
+      "chinese": "当然。小意思。",
+      "context": "回应感谢",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 2,
+      "japanese": "本当？いいの？",
+      "romaji": "Hontou? Ii no?",
+      "chinese": "真的?可以吗?",
+      "context": "确认许可",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 25,
+      "episode": 2,
+      "japanese": "あ、本当？肩もんであげようか。",
+      "romaji": "A, hontou? Kata mon de ageyou ka.",
+      "chinese": "啊?真的吗?我帮你捏个肩?",
+      "context": "提供帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 2,
+      "japanese": "なんだか最近寝ても疲れが取れないんだよねー。",
+      "romaji": "Nandaka saikin netemo tsukare ga torenain da yo neー.",
+      "chinese": "最近总感觉不管怎么睡都还是很累。",
+      "context": "表达疲劳",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 2,
+      "japanese": "あ、そうですか。",
+      "romaji": "A, soudesu ka.",
+      "chinese": "啊，这样啊。",
+      "context": "回应对方",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 28,
+      "episode": 2,
+      "japanese": "あ、あそこか。行きやすいね。近くに花屋もあるし。",
+      "romaji": "A, asoko ka. Iki yasui ne. Chikai ni hanaya mo aru shi.",
+      "chinese": "啊，那里啊。过去还挺方便的。附近还有花店。",
+      "context": "谈论地理位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 2,
+      "japanese": "新宿の大学病院みたいですよ。",
+      "romaji": "Shinjuku no daigaku byouin mitai desu yo.",
+      "chinese": "好像是新宿的大学医院。",
+      "context": "提供信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 2,
+      "japanese": "どこの病院にトムさん入院してるか、わかる？",
+      "romaji": "Doko no byouin ni Tomu-san nyuin shiteru ka, wakarru?",
+      "chinese": "你知道汤姆在哪家医院住院吗?",
+      "context": "询问信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 2,
+      "japanese": "花屋で、お見舞い用って言えば適当に作ってもらえるよ。",
+      "romaji": "Hanaya de, omimai you tte ieba tekitou ni tsukutte moraeru yo.",
+      "chinese": "去花店的时候，跟店员说一声是探病用的，应该就会帮我们选了包起来了。",
+      "context": "提供建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 2,
+      "japanese": "お花ですね。どんなお花がいいですかね。",
+      "romaji": "Ohanani desu ne. Donna ohanani ga ii desu ka ne.",
+      "chinese": "花呀。带什么花好呢?",
+      "context": "征求意见",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 2,
+      "japanese": "そうだね。普通だけど、お花にしようか？",
+      "romaji": "Soudane. Futsuu dakedo, ohanani shiyou ka?",
+      "chinese": "虽然普通了点，带花过去吧?",
+      "context": "提出建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 2,
+      "japanese": "お見舞いに行くとき、何を持って行きましょうか？",
+      "romaji": "Omimai ni iku toki, nani o motte ikimashou ka?",
+      "chinese": "去探病的时候应该带写什么呀?",
+      "context": "询问礼仪",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 2,
+      "japanese": "そうだね。一緒に行こう。",
+      "romaji": "Soudane. Issho ni ikou.",
+      "chinese": "也是。一起去吧。",
+      "context": "同意提议",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 36,
+      "episode": 2,
+      "japanese": "行くなら一緒に行きませんか？",
+      "romaji": "Iku nara issho ni ikimasen ka?",
+      "chinese": "要去的话，我们一起去吧?",
+      "context": "发出邀请",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "episode": 2,
+      "japanese": "えっ、じゃあ、お見舞いに行かなくちゃ。",
+      "romaji": "Eっ, jaa, omimai ni ikanakucha.",
+      "chinese": "诶?那我们得去探望他一下。",
+      "context": "得出结论",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 2,
+      "japanese": "トムさん、風邪をこじらせて入院したそうですよ。",
+      "romaji": "Tomu-san, kaze o kojirasete nyuin shita sou desu yo.",
+      "chinese": "听说汤姆感冒加重了，好像住院了。",
+      "context": "告知消息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 2,
+      "japanese": "じゃあ、質問を読みますので、それに答えていただけますか。",
+      "romaji": "Jaa, shitsumon o yomimasu node, sore ni kotaete itadakemasu ka.",
+      "chinese": "那由我来问，请您直接回答可以吗?",
+      "context": "说明流程",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 2,
+      "japanese": "あのー、漢字が難しくて読めないんですけど…。",
+      "romaji": "Anoー, kanji ga muzukashikute yomenain desu kedo....",
+      "chinese": "那个，这个汉字有点难，我看不懂……",
+      "context": "表达困难",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 2,
+      "japanese": "あのー、初めてなんですけど。",
+      "romaji": "Anoー, hajimete nan desu kedo.",
+      "chinese": "那个，我是第一次来看病。",
+      "context": "说明情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 2,
+      "japanese": "はい。では、こちらの問診票にご記入ください。",
+      "romaji": "Hai. Dewa,kochira no monjinhyo ni go kinyuu kudasai.",
+      "chinese": "好的。那，请填一下这个病历表。",
+      "context": "指示操作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 2,
+      "japanese": "3日ぐらいかかるので、急ぐなら早めに持ってきてくださいね。",
+      "romaji": "Mikka gurai kakaruno de, isogu nara hayame ni motte kite kudasai ne.",
+      "chinese": "开证明大概需要3天时间，如果急着要的话还请早些拿过来。",
+      "context": "说明时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 2,
+      "japanese": "はい。じゃ、後で書いて持ってきます。",
+      "romaji": "Hai. Jaa, ato de kaite motte kimasu.",
+      "chinese": "好的。那我之后写完了就拿过来。",
+      "context": "接受指示",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 2,
+      "japanese": "あ、はい。じゃ、この用紙に必要事項を書いてください。",
+      "romaji": "A, hai. Jaa, kono youshi ni hitsuyou jikou o kaite kudasai.",
+      "chinese": "哦，好的。请把这张纸上的必要事项填写一下。",
+      "context": "给出指示",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 2,
+      "japanese": "すみません、卒業見込み証明書が欲しいんですが。",
+      "romaji": "Sumimasen, sotsugyou mikomi shoumei sho ga hoshii n desu ga.",
+      "chinese": "不好意思打扰一下，我想开一张预毕业证明。",
+      "context": "提出请求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 2,
+      "japanese": "いえいえ。ご両親にいい報告ができますね。",
+      "romaji": "Ieie. Goryoushin ni ii houkoku ga dekimasu ne.",
+      "chinese": "哪里哪里。可以有好消息向你父母汇报了!",
+      "context": "表示祝贺",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 2,
+      "japanese": "先生のおかげです。本当にありがとうございました。",
+      "romaji": "Sensei no okage desu. Hontou ni arigatou gozaimashita.",
+      "chinese": "都是托了老师的福。真的太感谢您了。",
+      "context": "表达感谢",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 2,
+      "japanese": "わー、おめでとう。よく頑張りましたね。",
+      "romaji": "Waa, omedetou. Yoku ganbatta ne.",
+      "chinese": "哇!恭喜你!干得漂亮!",
+      "context": "表示祝贺",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 50,
+      "episode": 2,
+      "japanese": "先生、合格しました！",
+      "romaji": "Sensei, goukaku shimashita!",
+      "chinese": "老师!我过了!",
+      "context": "报告好消息",
+      "difficulty": "beginner"
+    }
+  ]
+}

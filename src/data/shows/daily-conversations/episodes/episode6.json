@@ -1,0 +1,455 @@
+{
+  "number": 6,
+  "title": "第六集：健康与医疗",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 6,
+      "japanese": "はい。すごくかゆくて、ついかいちゃって。そしたらますますかゆいところが広がってしまったんですけど。それにだんだん腫れてきたような気がして。",
+      "romaji": "Hai. Sugoku kayukute, tsui kaichatte. Soshitara masumasu kayui tokoro ga hirogatte shimattan desu kedo. Sore ni dandan harete kita you na ki ga shite.",
+      "chinese": "是的，超级痒，我忍不住去挠，然后痒的地方范围越来越大。感觉还有点肿起来了。",
+      "context": "描述皮肤症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 6,
+      "japanese": "ちょっと見せてください。ああ、確かに赤くなっていますね。かゆみはありますか。",
+      "romaji": "Chotto misete kudasai. Aa, tashika ni akaku natte imasu ne. Kayumi wa arimasu ka.",
+      "chinese": "我看一下。啊，确实红了。会痒吗?",
+      "context": "医生检查",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 6,
+      "japanese": "あの、腕の内側のところに赤いぶつぶつができちゃって。",
+      "romaji": "Ano, ude no uchigawa no tokoro ni akai butsubutsu ga dekichatte.",
+      "chinese": "那个，我手臂内侧长了些红色的小疹子。",
+      "context": "描述皮肤症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 6,
+      "japanese": "そのときに触っちゃったのかもしれませんね。とりあえず塗り薬を出しておきますので、様子をみてください。…一週間分ね。",
+      "romaji": "Sono toki ni furechatta no kamo shiremasen ne. Toriaezu nurigusuri o dashite okimasu node, yousu o mite kudasai. ...Isshuukan bun ne.",
+      "chinese": "那可能就是那会儿碰到了。我先开个外用药给你，看看情况吧。先开个一个礼拜的量吧。",
+      "context": "医生诊断",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 6,
+      "japanese": "これはたぶん、毛虫に刺されたんですね。木の葉っぱに触ったりしませんでしたか。",
+      "romaji": "Kore wa tabun, kemushi ni sasareta n desu ne. Ki no happa ni furetari shimashitaka.",
+      "chinese": "这大概是被毛毛虫扎到了。你是不是碰了什么树叶之类的。",
+      "context": "医生询问",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 6,
+      "japanese": "頭が痛いです。",
+      "romaji": "Atama ga itai desu.",
+      "chinese": "我头疼。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 6,
+      "japanese": "熱がありますか？",
+      "romaji": "Netsu ga arimasu ka?",
+      "chinese": "发烧吗？",
+      "context": "医生询问症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 6,
+      "japanese": "咳が止まりません。",
+      "romaji": "Seki ga tomari masen.",
+      "chinese": "我咳嗽不止。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 6,
+      "japanese": "喉が痛いです。",
+      "romaji": "Nodo ga itai desu.",
+      "chinese": "我喉咙痛。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 10,
+      "episode": 6,
+      "japanese": "風邪を引いたみたいです。",
+      "romaji": "Kaze o hiita mitai desu.",
+      "chinese": "我好像感冒了。",
+      "context": "自我诊断",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 6,
+      "japanese": "風邪薬をください。",
+      "romaji": "Kazegusuri o kudasai.",
+      "chinese": "请给我感冒药。",
+      "context": "请求开药",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 12,
+      "episode": 6,
+      "japanese": "胃が痛いです。",
+      "romaji": "I ga itai desu.",
+      "chinese": "我胃疼。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 13,
+      "episode": 6,
+      "japanese": "何も食べたくありません。",
+      "romaji": "Nani mo tabetaku arimasen.",
+      "chinese": "我什么都不想吃。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 6,
+      "japanese": "昨日から下痢があります。",
+      "romaji": "Kinou kara geri ga arimasu.",
+      "chinese": "我从昨天开始拉肚子。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 6,
+      "japanese": "腹痛がひどいです。",
+      "romaji": "Fukutsuu ga hidoi desu.",
+      "chinese": "我肚子很痛。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 6,
+      "japanese": "歯が痛いです。",
+      "romaji": "Ha ga itai desu.",
+      "chinese": "我牙疼。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 6,
+      "japanese": "歯医者の予約をしたいです。",
+      "romaji": "Haisha no yoyaku o shitai desu.",
+      "chinese": "我想预约牙医。",
+      "context": "预约牙医",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 6,
+      "japanese": "視力が悪くなりました。",
+      "romaji": "Shiryoku ga waruku narimashita.",
+      "chinese": "我的视力变差了。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 6,
+      "japanese": "眼鏡を作っていただけますか？",
+      "romaji": "Megane o tsukutte itadakemasu ka?",
+      "chinese": "能给我配眼镜吗？",
+      "context": "请求配眼镜",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 6,
+      "japanese": "目が疲れます。",
+      "romaji": "Me ga tsukaremasu.",
+      "chinese": "我眼睛疲劳。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 6,
+      "japanese": "目薬をください。",
+      "romaji": "Megusuri o kudasai.",
+      "chinese": "请给我眼药水。",
+      "context": "请求开药",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 22,
+      "episode": 6,
+      "japanese": "耳が痛いです。",
+      "romaji": "Mimi ga itai desu.",
+      "chinese": "我耳朵疼。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 23,
+      "episode": 6,
+      "japanese": "鼻血が止まりません。",
+      "romaji": "Hanaji ga tomari masen.",
+      "chinese": "我流鼻血止不住。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 6,
+      "japanese": "頭がくらくらします。",
+      "romaji": "Atama ga kurakura shimasu.",
+      "chinese": "我头晕。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 6,
+      "japanese": "体がだるいです。",
+      "romaji": "Karada ga darui desu.",
+      "chinese": "我身体乏力。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 26,
+      "episode": 6,
+      "japanese": "睡眠が不足です。",
+      "romaji": "Suimin ga fusoku desu.",
+      "chinese": "我睡眠不足。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 6,
+      "japanese": "いつも疲れが取れません。",
+      "romaji": "Itsumo tsukare ga toremasen.",
+      "chinese": "我总是消除不了疲劳。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 6,
+      "japanese": "アレルギーが出ました。",
+      "romaji": "Arerugi- ga demashita.",
+      "chinese": "我出现了过敏反应。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 6,
+      "japanese": "花粉症がひどいです。",
+      "romaji": "Kafunshou ga hidoi desu.",
+      "chinese": "我的花粉症很严重。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 6,
+      "japanese": "腕を捻挫しました。",
+      "romaji": "Ude o nensei shimashita.",
+      "chinese": "我扭伤了胳膊。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 6,
+      "japanese": "脚が骨折したみたいです。","romaji": "Ashi ga kossetsu shita mitai desu.",
+      "chinese": "我的腿好像骨折了。",
+      "context": "描述症状",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 32,
+      "episode": 6,
+      "japanese": "怪我をしました。",
+      "romaji": "Kega o shimashita.",
+      "chinese": "我受伤了。",
+      "context": "描述情况",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 33,
+      "episode": 6,
+      "japanese": "包帯をください。",
+      "romaji": "Houtai o kudasai.",
+      "chinese": "请给我绷带。",
+      "context": "请求医疗用品",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 34,
+      "episode": 6,
+      "japanese": "消毒薬はどこですか？",
+      "romaji": "Shoudoku yaku wa doko desu ka?",
+      "chinese": "消毒液在哪里？",
+      "context": "询问医疗用品位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 6,
+      "japanese": "病院へ行きます。",
+      "romaji": "Byouin e ikimasu.",
+      "chinese": "我要去医院。",
+      "context": "表达就医意愿",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 36,
+      "episode": 6,
+      "japanese": "救急車を呼んでください！",
+      "romaji": "Kyuukyuusha o yonde kudasai!",
+      "chinese": "请叫救护车！",
+      "context": "紧急求助",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 37,
+      "episode": 6,
+      "japanese": "保険証を持っていきますか？",
+      "romaji": "Hokenshou o motte ikimasu ka?",
+      "chinese": "要带保险证吗？",
+      "context": "询问就医准备",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 6,
+      "japanese": "予約は必要ですか？",
+      "romaji": "Yoyaku wa hitsuyou desu ka?",
+      "chinese": "需要预约吗？",
+      "context": "询问预约要求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 6,
+      "japanese": "診察券をください。",
+      "romaji": "Shinsatsu ken o kudasai.",
+      "chinese": "请给我就诊券。",
+      "context": "请求就诊券",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 6,
+      "japanese": "診察料はいくらですか？",
+      "romaji": "Shinsatsu ryou wa ikura desu ka?",
+      "chinese": "诊疗费是多少？",
+      "context": "询问费用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 6,
+      "japanese": "薬局はどこですか？",
+      "romaji": "Yakkyoku wa doko desu ka?",
+      "chinese": "药店在哪里？",
+      "context": "询问药店位置",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 42,
+      "episode": 6,
+      "japanese": "処方箋をもらいました。",
+      "romaji": "Shohousen o moraimashita.",
+      "chinese": "我拿到处方了。",
+      "context": "说明持有处方",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 6,
+      "japanese": "この薬はいつ飲めばいいですか？",
+      "romaji": "Kono kusuri wa itsu nomeba ii desu ka?",
+      "chinese": "这个药什么时候吃？",
+      "context": "询问用药时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 6,
+      "japanese": "副作用はありますか？",
+      "romaji": "Fukuyouhou wa arimasu ka?",
+      "chinese": "有副作用吗？",
+      "context": "询问副作用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 6,
+      "japanese": "食事の前に飲みますか、後に飲みますか？",
+      "romaji": "Shokuji no mae ni nomimasu ka, ato ni nomimasu ka?",
+      "chinese": "饭前吃还是饭后吃？",
+      "context": "询问用药时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 6,
+      "japanese": "飲酒はできますか？",
+      "romaji": "Inshu wa dekimasu ka?",
+      "chinese": "可以喝酒吗？",
+      "context": "询问饮食禁忌",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 6,
+      "japanese": "この薬はいくらですか？",
+      "romaji": "Kono kusuri wa ikura desu ka?",
+      "chinese": "这个药多少钱？",
+      "context": "询问药价",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 48,
+      "episode": 6,
+      "japanese": "健康診断はいつですか？",
+      "romaji": "Kenkou shindan wa itsu desu ka?",
+      "chinese": "体检是什么时候？",
+      "context": "询问体检时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 6,
+      "japanese": "検査の結果はいつ出ますか？",
+      "romaji": "Kensa no kekka wa itsu demasu ka?",
+      "chinese": "检查结果什么时候出来？",
+      "context": "询问检查结果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 6,
+      "japanese": "医者からのアドバイスに従います。",
+      "romaji": "Isha kara no adobaisu ni shitagaimasu.",
+      "chinese": "我会听从医生的建议。",
+      "context": "表达遵医嘱意愿",
+      "difficulty": "intermediate"
+    }
+  ]
+}

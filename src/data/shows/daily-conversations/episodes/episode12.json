@@ -1,0 +1,455 @@
+{
+  "number": 12,
+  "title": "第十二集：职场日语",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 12,
+      "japanese": "もしもし。鈴木です。今、電車の中なんですが、緊急停車してしまって。",
+      "romaji": "Moshi moshi. Suzuki desu. Ima, densha no naka nan desu ga, kinkyū teisha shite shimatte.","chinese": "喂，我是铃木。我现在在电车上，刚刚紧急停车了。",
+      "context": "紧急情况通知",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 12,
+      "japanese": "目黒のあたりです。それで会議、もし間に合わなければ、先に始めててもらえますか。",
+      "romaji": "Meguro no atari desu. Sore de kaigi, moshi maniawanakereba, saki ni hajimetete moraemasu ka.",
+      "chinese": "在目黑附近。如果我赶不上会议的话，你们就先开始吧。",
+      "context": "会议安排变更",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 12,
+      "japanese": "部長、お先に失礼します。",
+      "romaji": "Buchō, osaki ni shitsurei shimasu.",
+      "chinese": "部长，我就先告辞了。",
+      "context": "下班告辞",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 12,
+      "japanese": "すみません。今は猫の手も借りたいぐらいなんです。",
+      "romaji": "Sumimasen. Ima wa neko no te mo karitai gurai nan desu.",
+      "chinese": "抱歉，我现在真是忙得不可开交。",
+      "context": "工作忙碌",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 5,
+      "episode": 12,
+      "japanese": "参加者名簿の作成、明日までにお願いできる？",
+      "romaji": "Sanka-sha meibo no sakusei, ashita made ni onegaidekiru?",
+      "chinese": "参加者的名单，明天之前能完成吗？",
+      "context": "工作委托",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 12,
+      "japanese": "おはようございます。",
+      "romaji": "Ohayou gozaimasu.",
+      "chinese": "早上好。",
+      "context": "早晨问候",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 12,
+      "japanese": "今日の会議は何時からですか？",
+      "romaji": "Kyou no kaigi wa nanji kara desu ka?",
+      "chinese": "今天的会议几点开始？",
+      "context": "询问会议时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 12,
+      "japanese": "資料をコピーしていただけますか？",
+      "romaji": "Shiryou o kopii shite itadakemasu ka?",
+      "chinese": "能帮我复印资料吗？",
+      "context": "请求帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 12,
+      "japanese": "会議室は空いていますか？",
+      "romaji": "Kaigishitsu wa aite imasu ka?",
+      "chinese": "会议室空着吗？",
+      "context": "询问会议室使用情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 12,
+      "japanese": "プロジェクトの進捗を報告します。",
+      "romaji": "Purojekuto no shincho o houkoku shimasu.",
+      "chinese": "我来报告项目进展。",
+      "context": "工作汇报",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 12,
+      "japanese": "この仕事は来週までに完成できます。",
+      "romaji": "Kono shigoto wa raishuu made ni kansei dekimasu.",
+      "chinese": "这项工作能在下周末前完成。",
+      "context": "工作承诺",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 12,
+      "japanese": "このレポートをチェックしていただけますか？",
+      "romaji": "Kono repo-to o chekku shite itadakemasu ka?",
+      "chinese": "能帮我检查一下这份报告吗？",
+      "context": "请求检查",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 12,
+      "japanese": "意見を伺いたいのですが。",
+      "romaji": "Iken o ukagaitai no desu ga.",
+      "chinese": "我想听听您的意见。",
+      "context": "请求意见",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 12,
+      "japanese": "この仕事を手伝っていただけますか？",
+      "romaji": "Kono shigoto o tetsudatte itadakemasu ka?",
+      "chinese": "能帮我做这项工作吗？",
+      "context": "请求帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 12,
+      "japanese": "お手伝いいたします。",
+      "romaji": "Ote tsudai itashimasu.",
+      "chinese": "我来帮您。",
+      "context": "接受请求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 12,
+      "japanese": "すみません、今日は早めに帰らせていただきたいのですが。",
+      "romaji": "Sumimasen, kyou wa hayame ni kaerasete itadakitai no desu ga.",
+      "chinese": "不好意思，我今天想早点回去。",
+      "context": "请求早退",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 12,
+      "japanese": "来週の月曜日、休暇を取りたいのですが。",
+      "romaji": "Raishuu no getsuyoubi, kyuuka o toritai no desu ga.",
+      "chinese": "我想下周一请假。",
+      "context": "申请休假",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 12,
+      "japanese": "今日の残業は必要ですか？",
+      "romaji": "Kyou no zangyou wa hitsuyou desu ka?",
+      "chinese": "今天需要加班吗？",
+      "context": "询问加班",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 12,
+      "japanese": "資料を渡しに行きます。",
+      "romaji": "Shiryou o watashi ni ikimasu.",
+      "chinese": "我去送资料。",
+      "context": "主动承担工作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 12,
+      "japanese": "会議の議事録を取っていただけますか？",
+      "romaji": "Kaigi no gijiroku o totte itadakemasu ka?",
+      "chinese": "能帮我做会议记录吗？",
+      "context": "请求帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 12,
+      "japanese": "新しいプロジェクトに参加したいです。",
+      "romaji": "Atarashii purojekuto ni sanka shitai desu.",
+      "chinese": "我想参加新项目。",
+      "context": "表达意愿",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 12,
+      "japanese": "この仕事は私が担当いたします。",
+      "romaji": "Kono shigoto wa watashi ga tantou itashimasu.",
+      "chinese": "这项工作由我负责。",
+      "context": "承担责任",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 12,
+      "japanese": "期限を延ばしていただけますか？",
+      "romaji": "Kigen o nobashite itadakemasu ka?",
+      "chinese": "能延长期限吗？",
+      "context": "请求延期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 12,
+      "japanese": "申し訳ございません、ミスをしてしまいました。",
+      "romaji": "Moushiwake gozaimasen, misu o shite shimaimashita.",
+      "chinese": "对不起，我出错了。",
+      "context": "道歉",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 12,
+      "japanese": "この件についてご意見をいただきたいのですが。",
+      "romaji": "Kono ken ni tsuite goiken o itadakitai no desu ga.",
+      "chinese": "关于这件事，我想听听您的意见。",
+      "context": "请求意见",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 12,
+      "japanese": "この問題を解決する方法を考えています。",
+      "romaji": "Kono mondai o kaiketsu suru houhou o kangaete imasu.",
+      "chinese": "我在想解决这个问题的方法。",
+      "context": "表达解决意愿",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 12,
+      "japanese": "このレポートの提出期限はいつですか？",
+      "romaji": "Kono repo-to no teishutsu kigen wa itsu desu ka?",
+      "chinese": "这份报告的提交期限是什么时候？",
+      "context": "询问期限",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 12,
+      "japanese": "お客様から電話がありました。",
+      "romaji": "Okyakusama kara denwa ga arimashita.",
+      "chinese": "有客户来电。",
+      "context": "转达电话",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 12,
+      "japanese": "会議室の予約を取っていただけますか？",
+      "romaji": "Kaigishitsu no yoyaku o totte itadakemasu ka?",
+      "chinese": "能帮我预约会议室吗？",
+      "context": "请求帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 12,
+      "japanese": "新しいメンバーを紹介します。",
+      "romaji": "Atarashii menbaa o shoukai shimasu.",
+      "chinese": "我来介绍新成员。",
+      "context": "介绍新人",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 12,
+      "japanese": "今後ともよろしくお願いします。",
+      "romaji": "Kongo tomo yoroshiku onegaishimasu.",
+      "chinese": "今后请多关照。",
+      "context": "寒暄",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 32,
+      "episode": 12,
+      "japanese": "今日の打ち合わせはキャンセルになりました。",
+      "romaji": "Kyou no uchi awase wa kyanseru ni narimashita.",
+      "chinese": "今天的会议取消了。",
+      "context": "通知变更",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 12,
+      "japanese": "資料を整理しています。",
+      "romaji": "Shiryou o seiri shite imasu.",
+      "chinese": "我在整理资料。",
+      "context": "说明工作内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 12,
+      "japanese": "このプロジェクトの目標は何ですか？",
+      "romaji": "Kono purojekuto no mokuhyou wa nan desu ka?",
+      "chinese": "这个项目的目标是什么？",
+      "context": "询问目标",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 12,
+      "japanese": "予算はいくらですか？",
+      "romaji": "Yosan wa ikura desu ka?",
+      "chinese": "预算是多少？",
+      "context": "询问预算",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 12,
+      "japanese": "進捗が遅れています。",
+      "romaji": "Shincho ga okurete imasu.",
+      "chinese": "进展延迟了。",
+      "context": "报告问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "episode": 12,
+      "japanese": "解決策を提案します。",
+      "romaji": "Kaiketsu saku o teian shimasu.",
+      "chinese": "我提出解决方案。",
+      "context": "提出方案",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 12,
+      "japanese": "この仕事は誰が担当していますか？",
+      "romaji": "Kono shigoto wa dare ga tantou shite imasu ka?",
+      "chinese": "这项工作由谁负责？",
+      "context": "询问负责人",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 12,
+      "japanese": "ミーティングルームで打ち合わせをします。",
+      "romaji": "Miitingu ruumu de uchi awase o shimasu.",
+      "chinese": "我们在会议室开会。",
+      "context": "安排会议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 12,
+      "japanese": "資料を準備しておきます。",
+      "romaji": "Shiryou o junbi shite okimasu.",
+      "chinese": "我会准备好资料。",
+      "context": "承诺准备工作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 12,
+      "japanese": "この件について詳しく説明していただけますか？",
+      "romaji": "Kono ken ni tsuite kuwashiku setsumei shite itadakemasu ka?",
+      "chinese": "能详细说明一下这件事吗？",
+      "context": "请求说明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 12,
+      "japanese": "意見があればどうぞ。",
+      "romaji": "Iken ga areba douzo.",
+      "chinese": "有意见请说。",
+      "context": "征求意见",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 43,
+      "episode": 12,
+      "japanese": "この計画を変更します。",
+      "romaji": "Kono keikaku o henkou shimasu.",
+      "chinese": "我们变更这个计划。",
+      "context": "宣布变更",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 12,
+      "japanese": "今日の仕事はこれで終わります。",
+      "romaji": "Kyou no shigoto wa kore de owari masu.",
+      "chinese": "今天的工作到此结束。",
+      "context": "结束工作",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 45,
+      "episode": 12,
+      "japanese": "明日までにこれを完成させてください。",
+      "romaji": "Ashita made ni kore o kansei sasete kudasai.",
+      "chinese": "请在明天之前完成这个。",
+      "context": "下达指示",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 12,
+      "japanese": "お疲れ様でした。",
+      "romaji": "Otsukaresama deshita.",
+      "chinese": "辛苦了。",
+      "context": "下班问候",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 47,
+      "episode": 12,
+      "japanese": "今日も頑張りました。",
+      "romaji": "Kyou mo ganbarimashita.",
+      "chinese": "今天也辛苦了。",
+      "context": "互相鼓励",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 48,
+      "episode": 12,
+      "japanese": "来週の予定を確認します。",
+      "romaji": "Raishuu no yotei o kakunin shimasu.",
+      "chinese": "我确认下周的计划。",
+      "context": "确认计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 12,
+      "japanese": "新しいプロジェクトの準備を始めます。",
+      "romaji": "Atarashii purojekuto no junbi o hajimemasu.",
+      "chinese": "我们开始新项目的准备。",
+      "context": "开始工作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 12,
+      "japanese": "今日の業績を報告します。",
+      "romaji": "Kyou no gyouseki o houkoku shimasu.",
+      "chinese": "我报告今天的业绩。",
+      "context": "工作汇报",
+      "difficulty": "intermediate"
+    }
+  ]
+}

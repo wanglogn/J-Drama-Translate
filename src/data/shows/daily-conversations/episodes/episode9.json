@@ -1,0 +1,455 @@
+{
+  "number": 9,
+  "title": "第九集：购物咨询",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 9,
+      "japanese": "すみません、ちょっとこの洗濯機の説明が聞きたいんですけど。",
+      "romaji": "Sumimasen, chotto kono sentakuki no setsumei ga kikitain desu kedo.",
+      "chinese": "不好意思，我想了解一下这个洗衣机。",
+      "context": "咨询洗衣机",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 9,
+      "japanese": "7キロって書いてありますけど、何人用ですか。",
+      "romaji": "Nana kiro tte kaite arimasu kedo, nannin you desu ka.",
+      "chinese": "这容量写着7公斤，大概可以几个人用呀。",
+      "context": "询问容量",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 9,
+      "japanese": "7キロですと、だいたい2、3人用ですね。",
+      "romaji": "Nana kiro desu to, daitai 2、3 nin you desu ne.",
+      "chinese": "7公斤的话，大概可以2~3个人用。",
+      "context": "说明适用人数",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 9,
+      "japanese": "ああ、もっと小さくていいんです。一人暮らしなんで。",
+      "romaji": "Aa, motto chiisakute iin desu. Hitori gurashi nan de.",
+      "chinese": "哦哦，有没有小一些的。我一个人住。",
+      "context": "说明需求",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 9,
+      "japanese": "それでしたら、こちらはいかがでしょうか。5キロですので、お一人なら十分だと思いますが。",
+      "romaji": "Sore deshitara, kochira wa ikaga deshou ka. 5 kiro desu node, o hitori nara juubun da to omoimasu ga.",
+      "chinese": "这样的话，这边这款怎么样？5公斤的，一个人用的话应该足够了。",
+      "context": "推荐产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 9,
+      "japanese": "すみません、この商品はいくらですか？",
+      "romaji": "Sumimasen, kono shouhin wa ikura desu ka?",
+      "chinese": "不好意思，这个商品多少钱？",
+      "context": "询问价格",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 9,
+      "japanese": "これと似た商品はありますか？",
+      "romaji": "Kore to nita shouhin wa arimasu ka?",
+      "chinese": "有和这个类似的商品吗？",
+      "context": "询问类似商品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 9,
+      "japanese": "この商品は在庫がありますか？",
+      "romaji": "Kono shouhin wa zaiko ga arimasu ka?",
+      "chinese": "这个商品有库存吗？",
+      "context": "询问库存",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 9,
+      "japanese": "サイズは何種類ありますか？",
+      "romaji": "Saizu wa nanshuurui arimasu ka?",
+      "chinese": "有几种尺寸？",
+      "context": "询问尺寸种类",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 9,
+      "japanese": "色は他にありますか？",
+      "romaji": "Iro wa hoka ni arimasu ka?",
+      "chinese": "有其他颜色吗？",
+      "context": "询问颜色选择",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 11,
+      "episode": 9,
+      "japanese": "試着室はどこですか？",
+      "romaji": "Shichaku shitsu wa doko desu ka?",
+      "chinese": "试衣间在哪里？","context": "询问试衣间位置",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 12,
+      "episode": 9,
+      "japanese": "これを試着してもいいですか？",
+      "romaji": "Kore o shichaku shite mo ii desu ka?",
+      "chinese": "我可以试穿这个吗？",
+      "context": "请求试穿",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 9,
+      "japanese": "この服は洗濯方法はどうですか？",
+      "romaji": "Kono fuku wa sentaku houhou wa dou desu ka?",
+      "chinese": "这件衣服怎么洗？",
+      "context": "询问洗涤方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 9,
+      "japanese": "サイズが合いません。大きいサイズはありますか？",
+      "romaji": "Saizu ga aimasen. Ookii saizu wa arimasu ka?",
+      "chinese": "尺寸不合适。有大一点的尺寸吗？",
+      "context": "请求更换尺寸",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 9,
+      "japanese": "この商品は安くなりますか？",
+      "romaji": "Kono shouhin wa yasuku narimasu ka?",
+      "chinese": "这个商品会降价吗？",
+      "context": "询问降价可能性",
+      "intermediate": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 9,
+      "japanese": "今、セール中ですか？",
+      "romaji": "Ima, se-ru chuu desu ka?",
+      "chinese": "现在打折吗？",
+      "context": "询问促销活动",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 9,
+      "japanese": "会員カードを持っています。",
+      "romaji": "Kaiin ka-do o motte imasu.",
+      "chinese": "我有会员卡。",
+      "context": "使用会员卡",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 9,
+      "japanese": "会員価格はいくらですか？",
+      "romaji": "Kaiin kakaku wa ikura desu ka?",
+      "chinese": "会员价是多少？",
+      "context": "询问会员价",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 9,
+      "japanese": "ポイントは貯まりますか？",
+      "romaji": "Pointo wa tamarimasu ka?",
+      "chinese": "可以积累积分吗？",
+      "context": "询问积分",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 9,
+      "japanese": "この商品は返品できますか？",
+      "romaji": "Kono shouhin wa henpin dekimasu ka?",
+      "chinese": "这个商品可以退货吗？",
+      "context": "询问退货政策",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 9,
+      "japanese": "交換はできますか？",
+      "romaji": "Koukan wa dekimasu ka?",
+      "chinese": "可以换货吗？",
+      "context": "询问换货政策",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 9,
+      "japanese": "返品期限はいつまでですか？",
+      "romaji": "Henpin kigen wa itsu made desu ka?",
+      "chinese": "退货期限是到什么时候？",
+      "context": "询问退货期限",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 9,
+      "japanese": "レシートが必要ですか？",
+      "romaji": "Reshii-to ga hitsuyou desu ka?",
+      "chinese": "需要收据吗？",
+      "context": "询问退货条件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 9,
+      "japanese": "この商品の特徴は何ですか？",
+      "romaji": "Kono shouhin no tokuchou wa nan desu ka?",
+      "chinese": "这个商品的特点是什么？",
+      "context": "询问商品特点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 9,
+      "japanese": "使い方を教えてください。",
+      "romaji": "Tsukaikata o oshiete kudasai.",
+      "chinese": "请告诉我使用方法。",
+      "context": "询问使用方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 9,
+      "japanese": "品質はどうですか？",
+      "romaji": "Hinshitsu wa dou desu ka?",
+      "chinese": "质量怎么样？",
+      "context": "询问商品质量",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 9,
+      "japanese": "この商品はどこで作られていますか？",
+      "romaji": "Kono shouhin wa doko de tsukurarete imasu ka?",
+      "chinese": "这个商品是哪里制造的？",
+      "context": "询问产地",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 9,
+      "japanese": "この商品には保証がありますか？",
+      "romaji": "Kono shouhin ni wa hoshou ga arimasu ka?",
+      "chinese": "这个商品有保修吗？",
+      "context": "询问保修",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 9,
+      "japanese": "これをください。",
+      "romaji": "Kore o kudasai.",
+      "chinese": "我要这个。",
+      "context": "购买商品",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 30,
+      "episode": 9,
+      "japanese": "これだけです。",
+      "romaji": "Kore dake desu.",
+      "chinese": "就要这些。",
+      "context": "结束购物",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 31,
+      "episode": 9,
+      "japanese": "合計いくらですか？",
+      "romaji": "Goukei ikura desu ka?",
+      "chinese": "一共多少钱？",
+      "context": "询问总价",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 32,
+      "episode": 9,
+      "japanese": "クレジットカードで支払います。",
+      "romaji": "Kurejitto ka-do de shiharai masu.",
+      "chinese": "我用信用卡支付。",
+      "context": "选择支付方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 9,
+      "japanese": "現金で払います。",
+      "romaji": "Genkin de haraimasu.",
+      "chinese": "我用现金支付。",
+      "context": "选择支付方式",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 34,
+      "episode": 9,
+      "japanese": "ICカードは使えますか？",
+      "romaji": "IC ka-do wa tsukaemasu ka?",
+      "chinese": "可以用IC卡吗？",
+      "context": "询问支付方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 9,
+      "japanese": "領収書をください。",
+      "romaji": "Ryoushuu sho o kudasai.",
+      "chinese": "请给我收据。",
+      "context": "请求收据",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 36,
+      "episode": 9,
+      "japanese": "袋は必要ですか？",
+      "romaji": "Fukuro wa hitsuyou desu ka?",
+      "chinese": "需要袋子吗？",
+      "context": "询问购物袋",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 37,
+      "episode": 9,
+      "japanese": "この商品を包装していただけますか？",
+      "romaji": "Kono shouhin o hou sou shite itadakemasu ka?",
+      "chinese": "能帮我包装这个商品吗？",
+      "context": "请求包装",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 9,
+      "japanese": "宅配便で送ってもらえますか？",
+      "romaji": "Takuhaibin de okutte moraemasu ka?",
+      "chinese": "可以用快递寄送吗？",
+      "context": "询问配送服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 9,
+      "japanese": "配送料はいくらですか？",
+      "romaji": "Hai tsuuryou wa ikura desu ka?",
+      "chinese": "配送费是多少？",
+      "context": "询问配送费",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 9,
+      "japanese": "明日届きますか？",
+      "romaji": "Ashita todokimasu ka?",
+      "chinese": "明天能到吗？",
+      "context": "询问配送时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 9,
+      "japanese": "この店の営業時間は何時から何時までですか？",
+      "romaji": "Kono mise no eigyou jikan wa nanji kara nanji made desu ka?",
+      "chinese": "这家店的营业时间是几点到几点？",
+      "context": "询问营业时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 9,
+      "japanese": "駐車場はありますか？",
+      "romaji": "Chuusha jou wa arimasu ka?",
+      "chinese": "有停车场吗？",
+      "context": "询问停车设施",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 9,
+      "japanese": "この商品はオンラインでも購入できますか？",
+      "romaji": "Kono shouhin wa onrain de mo kounyuu dekimasu ka?",
+      "chinese": "这个商品可以在线购买吗？",
+      "context": "询问线上购买",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 9,
+      "japanese": "この店のホームページは何ですか？",
+      "romaji": "Kono mise no ho-mu pe-ji wa nan desu ka?",
+      "chinese": "这家店的网站是什么？",
+      "context": "询问网站信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 9,
+      "japanese": "次回再来ます。",
+      "romaji": "Jikai sairai masu.",
+      "chinese": "下次再来。",
+      "context": "告别",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 9,
+      "japanese": "ありがとうございました。",
+      "romaji": "Arigatou gozaimashita.",
+      "chinese": "谢谢。",
+      "context": "感谢",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 47,
+      "episode": 9,
+      "japanese": "この商品についてもっと詳しく知りたいです。",
+      "romaji": "Kono shouhin ni tsuite motto kuwashiku shiritai desu.",
+      "chinese": "我想更详细地了解这个商品。",
+      "context": "请求详细信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 9,
+      "japanese": "これは何の材料で作られていますか？",
+      "romaji": "Kore wa nan no zairyou de tsukurarete imasu ka?",
+      "chinese": "这是用什么材料做的？",
+      "context": "询问材料",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 9,
+      "japanese": "この商品は敏感肌でも使えますか？",
+      "romaji": "Kono shouhin wa binkan hada de mo tsukaemasu ka?",
+      "chinese": "这个商品敏感肌肤也能使用吗？",
+      "context": "询问适用人群",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 9,
+      "japanese": "この商品の有効期限はいつですか？",
+      "romaji": "Kono shouhin no yuukou kigen wa itsu desu ka?",
+      "chinese": "这个商品的保质期到什么时候？",
+      "context": "询问保质期",
+      "difficulty": "intermediate"
+    }
+  ]
+}

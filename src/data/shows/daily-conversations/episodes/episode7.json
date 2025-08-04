@@ -1,0 +1,456 @@
+{
+  "number": 7,
+  "title": "第七集：电器购物",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 7,
+      "japanese": "そうですね。こちらは…乾燥機能はありませんが、普通に使う分にはいいですよ。操作も簡単ですね。",
+      "romaji": "Soudesu ne. Kochira wa... kansou kinou wa arimasen ga, futsuu ni tsukau bun ni wa ii desu yo. Sousa mo kantan desu ne.",
+      "chinese": "这样啊。这边这款的话没有干燥功能，但是平时用的话够用了。操作起来也比较简单。",
+      "context": "电器店推荐",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 7,
+      "japanese": "それでしたら、こちらはいかがでしょうか。5キロですので、お一人なら十分だと思いますが。",
+      "romaji": "Sore deshitara, kochira wa ikaga deshou ka. 5 kiro desu node, o hitori nara juubun da to omoimasu ga.",
+      "chinese": "这样的话，这边这款怎么样?5公斤的，一个人用的话应该足够了。",
+      "context": "推荐产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 7,
+      "japanese": "ああ、もっと小さくていいんです。一人暮らしなんで。",
+      "romaji": "Aa, motto chiisakute iin desu. Hitori gurashi nan de.",
+      "chinese": "哦哦，有没有小一些的。我一个人住。",
+      "context": "说明需求",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 7,
+      "japanese": "7キロですと、だいたい2、3人用ですね。",
+      "romaji": "7 kiro desu to, daitai 2、3 nin you desu ne.",
+      "chinese": "7公斤的话，大概可以2~3个人用。",
+      "context": "说明产品规格",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 7,
+      "japanese": "はい、こちらですね。こちらはこのメーカーの最新型のものですね。ドラム式で、乾燥も短時間でできます。",
+      "romaji": "Hai, kochira desu ne. Kochira wa kono meika no saishingata no mono desu ne. Doramu-shiki de, kansou mo tanshikan de dekimasu.",
+      "chinese": "好的。是这台对吧。这款是这个厂家的最新款。滚筒式的，干燥功能耗时很短。",
+      "context": "介绍产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 7,
+      "japanese": "この洗濯機の価格はいくらですか？",
+      "romaji": "Kono sentakuki no kakaku wa ikura desu ka?",
+      "chinese": "这台洗衣机多少钱？",
+      "context": "询问价格",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 7,
+      "japanese": "安いモデルはありますか？",
+      "romaji": "Yasui moderu wa arimasu ka?",
+      "chinese": "有便宜点的型号吗？",
+      "context": "询问低价产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 7,
+      "japanese": "この製品の保証期間はどれくらいですか？",
+      "romaji": "Kono seihin no hoshou kikan wa dore gurai desu ka?",
+      "chinese": "这款产品的保修期是多久？",
+      "context": "询问保修",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 7,
+      "japanese": "取り寄せが必要ですか？",
+      "romaji": "Toriyose ga hitsuyou desu ka?",
+      "chinese": "需要调货吗？",
+      "context": "询问库存",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 7,
+      "japanese": "今すぐ購入すれば、配達はいつですか？",
+      "romaji": "Ima sugu kounyuu sureba, haitatu wa itsu desu ka?",
+      "chinese": "如果现在购买，什么时候送货？",
+      "context": "询问送货时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 7,
+      "japanese": "設置は無料ですか？",
+      "romaji": "Setti wa muryou desu ka?",
+      "chinese": "安装是免费的吗？",
+      "context": "询问安装费用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 7,
+      "japanese": "古い機械の回収はしてもらえますか？",
+      "romaji": "Furui kikai no kaishuu wa shite moraemasu ka?",
+      "chinese": "可以回收旧机器吗？",
+      "context": "询问旧物回收",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 13,
+      "episode": 7,
+      "japanese": "この冷蔵庫の容量は何リットルですか？",
+      "romaji": "Kono reizouko no youryou wa nan rittoru desu ka?",
+      "chinese": "这台冰箱的容量是多少升？",
+      "context": "询问容量",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 7,
+      "japanese": "省エネルギーですか？",
+      "romaji": "Sho enerugii desu ka?",
+      "chinese": "节能吗？",
+      "context": "询问节能性能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 7,
+      "japanese": "このエアコンの消費電力はいくらですか？",
+      "romaji": "Kono eakon no shouhi denryoku wa ikura desu ka?",
+      "chinese": "这台空调的耗电量是多少？",
+      "context": "询问耗电量",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 16,
+      "episode": 7,
+      "japanese": "リモコンが付いていますか？",
+      "romaji": "Rimokon ga tsuite imasu ka?",
+      "chinese": "带遥控器吗？",
+      "context": "询问配件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 7,
+      "japanese": "スマホで操作できますか？",
+      "romaji": "Sumaho de sousa dekimasu ka?",
+      "chinese": "可以用手机操作吗？",
+      "context": "询问智能功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 7,
+      "japanese": "このテレビの画面サイズは何インチですか？",
+      "romaji": "Kono terebi no gamen saizu wa nan inchi desu ka?",
+      "chinese": "这台电视的屏幕尺寸是多少英寸？",
+      "context": "询问尺寸",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 7,
+      "japanese": "4K対応ですか？",
+      "romaji": "4K taiou desu ka?",
+      "chinese": "支持4K吗？",
+      "context": "询问画质",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 7,
+      "japanese": "インターネット機能はありますか？",
+      "romaji": "Intaanetto kinou wa arimasu ka?",
+      "chinese": "有网络功能吗？",
+      "context": "询问智能功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 7,
+      "japanese": "この掃除機は自動充電ですか？",
+      "romaji": "Kono souji ki wa jidou juuden desu ka?",
+      "chinese": "这台吸尘器是自动充电的吗？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 7,
+      "japanese": "充電一回でどれくらい使えますか？",
+      "romaji": "Juuden ikkai de dore gurai tsukaemasu ka?",
+      "chinese": "充一次电可以用多久？",
+      "context": "询问电池续航",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 7,
+      "japanese": "ノイズは少ないですか？",
+      "romaji": "Noizu wa sukunai desu ka?",
+      "chinese": "噪音小吗？",
+      "context": "询问噪音水平",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 7,
+      "japanese": "このミキサーの価格はいくらですか？",
+      "romaji": "Kono mikisa- no kakaku wa ikura desu ka?",
+      "chinese": "这个搅拌机多少钱？",
+      "context": "询问价格",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 25,
+      "episode": 7,
+      "japanese": "何種類のモードがありますか？",
+      "romaji": "Nanshuurui no mo-do ga arimasu ka?",
+      "chinese": "有几种模式？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 7,
+      "japanese": "洗浄が簡単ですか？",
+      "romaji": "Senshou ga kantan desu ka?",
+      "chinese": "容易清洗吗？",
+      "context": "询问使用便利性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 7,
+      "japanese": "この電子レンジのワット数はいくらですか？",
+      "romaji": "Kono denshi renji no watt suu wa ikura desu ka?",
+      "chinese": "这个微波炉的功率是多少瓦？",
+      "context": "询问规格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 7,
+      "japanese": "オーブン機能もありますか？",
+      "romaji": "Oobun kinou mo arimasu ka?",
+      "chinese": "有烤箱功能吗？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 7,
+      "japanese": "この炊飯器は何杯炊けますか？",
+      "romaji": "Kono suihanki wa nanpai takemasu ka?",
+      "chinese": "这个电饭煲能煮几杯米？",
+      "context": "询问容量",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 7,
+      "japanese": "予約機能がありますか？",
+      "romaji": "Yoyaku kinou ga arimasu ka?",
+      "chinese": "有预约功能吗？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 7,
+      "japanese": "保温時間はどれくらいですか？",
+      "romaji": "Hoon jikan wa dore gurai desu ka?",
+      "chinese": "保温时间是多久？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 7,
+      "japanese": "この電気ケトルの容量は何リットルですか？",
+      "romaji": "Kono denki ketoru no youryou wa nan rittoru desu ka?",
+      "chinese": "这个电水壶的容量是多少升？",
+      "context": "询问容量",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 7,
+      "japanese": "沸騰までどれくらい時間がかかりますか？",
+      "romaji": "Futou made dore gurai jikan ga kakarimasu ka?",
+      "chinese": "烧开需要多长时间？",
+      "context": "询问性能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 7,
+      "japanese": "自動で電源が切れますか？",
+      "romaji": "Jidou de dengen ga kiremasu ka?",
+      "chinese": "会自动断电吗？",
+      "context": "询问安全功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 7,
+      "japanese": "この電気ストーブの消費電力はいくらですか？",
+      "romaji": "Kono denki sutoubu no shouhi denryoku wa ikura desu ka?",
+      "chinese": "这个电暖器的耗电量是多少？",
+      "context": "询问耗电",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 7,
+      "japanese": "温度調節ができますか？",
+      "romaji": "Ondo chousei ga dekimasu ka?",
+      "chinese": "可以调节温度吗？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "episode": 7,
+      "japanese": "この扇風機は首振り機能がありますか？",
+      "romaji": "Kono senpuuki wa kubi furi kinou ga arimasu ka?",
+      "chinese": "这个电风扇有摇头功能吗？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 7,
+      "japanese": "風量は何段階ありますか？",
+      "romaji": "Furyou wa nandan kai arimasu ka?",
+      "chinese": "有几档风量？",
+      "context": "询问功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 7,
+      "japanese": "この除湿機の能力はいくらですか？",
+      "romaji": "Kono joshitsu ki no nouryoku wa ikura desu ka?",
+      "chinese": "这个除湿机的除湿能力是多少？",
+      "context": "询问性能",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 40,
+      "episode": 7,
+      "japanese": "タンクの容量はどれくらいですか？",
+      "romaji": "Tanku no youryou wa dore gurai desu ka?",
+      "chinese": "水箱容量是多少？",
+      "context": "询问容量",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 7,
+      "japanese": "この加湿器は超音波式ですか？",
+      "romaji": "Kono kashitsuki wa choonpa shiki desu ka?",
+      "chinese": "这个加湿器是超声波式的吗？",
+      "context": "询问类型",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 42,
+      "episode": 7,
+      "japanese": "水がなくなると自動で止まりますか？",
+      "romaji": "Mizu ga nakunaru to jidou de tomari masu ka?",
+      "chinese": "没水了会自动停止吗？",
+      "context": "询问安全功能",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 7,
+      "japanese": "この電子レンジは値段が高いですが、他の店より安いですか？",
+      "romaji": "Kono denshi renji wa nedan ga takai desu ga, hoka no mise yori yasui desu ka?",
+      "chinese": "这个微波炉价格很高，比其他店便宜吗？",
+      "context": "比较价格",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 44,
+      "episode": 7,
+      "japanese": "クレジットカードで支払いできますか？",
+      "romaji": "Kurejitto ka-do de shiharai dekimasu ka?",
+      "chinese": "可以用信用卡支付吗？",
+      "context": "询问支付方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 7,
+      "japanese": "分割払いはできますか？",
+      "romaji": "Bunkatsu harai wa dekimasu ka?",
+      "chinese": "可以分期付款吗？",
+      "context": "询问支付方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 7,
+      "japanese": "今、セール中ですか？",
+      "romaji": "Ima, se-ru chuu desu ka?",
+      "chinese": "现在打折吗？",
+      "context": "询问促销",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 47,
+      "episode": 7,
+      "japanese": "ポイントカードがあります。",
+      "romaji": "Pointo ka-do ga arimasu.",
+      "chinese": "我有积分卡。",
+      "context": "使用积分卡",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 7,
+      "japanese": "この製品には取扱説明書は付いていますか？",
+      "romaji": "Kono seihin ni wa torikaisetsu sho wa tsuite imasu ka?",
+      "chinese": "这个产品有说明书吗？",
+      "context": "询问配件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 7,
+      "japanese": "これを購入します。",
+      "romaji": "Kore o kounyuu shimasu.",
+      "chinese": "我买这个。",
+      "context": "决定购买",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 50,
+      "episode": 7,
+      "japanese": "レシートをください。",
+      "romaji": "Reshii-to o kudasai.",
+      "chinese": "请给我收据。",
+      "context": "请求收据",
+      "difficulty": "beginner"
+    }
+  ]
+}

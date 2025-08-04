@@ -1,0 +1,456 @@
+{
+  "number": 1,
+  "title": "第一集：日常问候与感谢",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 1,
+      "japanese": "わかりました。ありがとうございます。",
+      "romaji": "Wakarimashita. Arigatou gozaimasu.",
+      "chinese": "好的。谢谢。",
+      "context": "日常对话中的感谢场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 1,
+      "japanese": "はい、こんにちは。どうされましたか。",
+      "romaji": "Hai, konnichiwa. Dousaremashita ka.",
+      "chinese": "你好，哪里不舒服吗?",
+      "context": "医院接待场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 1,
+      "japanese": "いえ、お気をつけて。",
+      "romaji": "Ie, oki o tsukete.",
+      "chinese": "不用谢。路上注意安全。",
+      "context": "告别场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 1,
+      "japanese": "先生、ご無沙汰してます。",
+      "romaji": "Sensei, gobusata shitemasu.",
+      "chinese": "老师，好久不见，别来无恙。",
+      "context": "与老师重逢场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 1,
+      "japanese": "おはようございます。",
+      "romaji": "Ohayou gozaimasu.",
+      "chinese": "早上好。",
+      "context": "早晨问候场景",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 6,
+      "episode": 1,
+      "japanese": "そのときに触っちゃったのかもしれませんね。",
+      "romaji": "Sono toki ni furecchatta no kamo shiremasen ne.",
+      "chinese": "那可能就是那会儿碰到了。",
+      "context": "医生诊断场景",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 1,
+      "japanese": "あ、昨日公園で、木がたくさんあるところを歩きました。",
+      "romaji": "A, kinou kouen de, ki ga takusan aru tokoro o arukimashita.",
+      "chinese": "啊，我昨天去了公园，在有很多树的地方散了步。",
+      "context": "描述日常活动",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 1,
+      "japanese": "これはたぶん、毛虫に刺されたんですね。",
+      "romaji": "Kore wa tabun, kemushi ni sasareta n desu ne.",
+      "chinese": "这大概是被毛毛虫扎到了。",
+      "context": "医生判断症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 1,
+      "japanese": "痛みはありません。",
+      "romaji": "Itami wa arimasen.",
+      "chinese": "痛倒是不痛。",
+      "context": "描述症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 10,
+      "episode": 1,
+      "japanese": "そうですか。痛みは？",
+      "romaji": "Soudesuka. Itami wa?",
+      "chinese": "这样啊，痛吗?",
+      "context": "询问症状",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 11,
+      "episode": 1,
+      "japanese": "はい。すごくかゆくて、ついかいちゃって。",
+      "romaji": "Hai. Sugoku kayukute, tsui kaichatte.",
+      "chinese": "是的，超级痒，我忍不住去挠。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 1,
+      "japanese": "ちょっと見せてください。",
+      "romaji": "Chotto misete kudasai.",
+      "chinese": "我看一下。",
+      "context": "医生检查",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 13,
+      "episode": 1,
+      "japanese": "あの、腕の内側のところに赤いぶつぶつができちゃって。",
+      "romaji": "Ano, ude no uchigawa no tokoro ni akai butsubutsu ga dekichatte.",
+      "chinese": "那个，我手臂内侧长了些红色的小疹子。",
+      "context": "描述症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 1,
+      "japanese": "そうですね。こちらは…乾燥機能はありませんが。",
+      "romaji": "Soudesu ne. Kochira wa... kansou kinou wa arimasen ga.",
+      "chinese": "这样啊。这边这款的话没有干燥功能。",
+      "context": "电器店介绍产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 1,
+      "japanese": "そうですね。でも、ちょっと高いなあ。",
+      "romaji": "Soudesu ne. Demo, chotto takai naa.",
+      "chinese": "确实。不过，这个有点贵了。",
+      "context": "购物时讨论价格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 1,
+      "japanese": "それでしたら、こちらはいかがでしょうか。",
+      "romaji": "Sore deshitara, kochira wa ikaga deshou ka.",
+      "chinese": "这样的话，这边这款怎么样?",
+      "context": "推荐替代产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 1,
+      "japanese": "ああ、もっと小さくていいんです。一人暮らしなんで。",
+      "romaji": "Aa, motto chiisakute iin desu. Hitorigurashi nan de.",
+      "chinese": "哦哦，有没有小一些的。我一个人住。",
+      "context": "说明需求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 1,
+      "japanese": "7キロですと、だいたい2、3人用ですね。",
+      "romaji": "Nana kiro desu to, daitai 2、3 nin you desu ne.",
+      "chinese": "7公斤的话，大概可以2~3个人用。",
+      "context": "说明产品规格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 1,
+      "japanese": "7キロって書いてありますけど、何人用ですか。",
+      "romaji": "Nana kiro tte kaite arimasu kedo, nannin you desu ka.",
+      "chinese": "这容量写着7公斤，大概可以几个人用呀。",
+      "context": "询问产品规格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 1,
+      "japanese": "すみません、ちょっとこの洗濯機の説明が聞きたいんですけど。",
+      "romaji": "Sumimasen, chotto kono sentakuki no setsumei ga kikitain desu kedo.",
+      "chinese": "不好意思，我想了解一下这个洗衣机。",
+      "context": "咨询产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 1,
+      "japanese": "はい、こちらですね。このメーカーの最新型です。",
+      "romaji": "Hai, kochira desu ne. Kono meika no saishingata desu.",
+      "chinese": "好的。是这台对吧。这个厂家的最新款。",
+      "context": "介绍产品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 1,
+      "japanese": "はい、うけたまりました。料金は1500円になります。",
+      "romaji": "Hai, ukematemashita. Ryoukin wa 1500 en ni narimasu.",
+      "chinese": "好的。这边帮您受理了。运费是1500日元。",
+      "context": "告知费用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 1,
+      "japanese": "えーと、じゃあ、19時から21時でお願いします。",
+      "romaji": "Eeto, jaa, 19-ji kara 21-ji de onegaishimasu.",
+      "chinese": "呃，那就19点~21点吧。",
+      "context": "指定时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 1,
+      "japanese": "はい、できます。この中から選んでいただきたいんですが。",
+      "romaji": "Hai, dekimasu. Kono naka kara erande itadakitain desu ga.",
+      "chinese": "可以的。麻烦从这几个时间段里选择一下。",
+      "context": "提供选择",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 1,
+      "japanese": "はい。あと、時間指定はできますか。",
+      "romaji": "Hai. Ato, jikan shitei wa dekimasu ka.",
+      "chinese": "好的。对了，这个可以指定派送时间吗?",
+      "context": "询问服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 1,
+      "japanese": "服と食べ物ですね。じゃあ、ここに書いていただけますか。",
+      "romaji": "Fuku to tabemono desu ne. Jaa, koko ni kaite itadakemasu ka.",
+      "chinese": "衣服和吃的对吧。那，请在这里填写。",
+      "context": "指示填写",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 1,
+      "japanese": "服と、食べ物が少し入ってます。",
+      "romaji": "Fuku to, tabemono ga sukoshi haitte masu.",
+      "chinese": "衣服，还有一点吃的。",
+      "context": "说明物品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 1,
+      "japanese": "はい。あ、荷物の中身はなんですか。",
+      "romaji": "Hai. A, nimotsu no nakami wa nan desu ka.",
+      "chinese": "是的。你包裹里装的是什么?",
+      "context": "询问物品",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 1,
+      "japanese": "はい。…これでいいですか。",
+      "romaji": "Hai. ...Kore de ii desu ka.",
+      "chinese": "好的。是这里吗?",
+      "context": "确认信息",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 30,
+      "episode": 1,
+      "japanese": "この赤い線で囲んである部分だけでけっこうです。",
+      "romaji": "Kono akai sen de kakonde aru bu bun dake de kekkou desu.",
+      "chinese": "只填有红线框出来的地方就行了。",
+      "context": "说明填写要求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 1,
+      "japanese": "ええと、これ全部書くんですか。",
+      "romaji": "Eeto, kore zenbu kaku n desu ka.",
+      "chinese": "呃，是全部都要填吗?",
+      "context": "确认填写范围",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 32,
+      "episode": 1,
+      "japanese": "すみません、荷物を送りたいんですが。",
+      "romaji": "Sumimasen, nimotsu o okuritain desu ga.",
+      "chinese": "打扰一下，我想寄个东西。",
+      "context": "请求服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 1,
+      "japanese": "はい、じゃあこの伝票に書き込んでください。",
+      "romaji": "Hai, jaa kono denshou ni kakikonde kudasai.",
+      "chinese": "好的，先填一下这个单子。",
+      "context": "指示操作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 1,
+      "japanese": "そうなんですね。ああ、いろいろありがとうございました。",
+      "romaji": "Sounan desu ne. Aa, iroiro arigatou gozaimashita.",
+      "chinese": "这样啊。告诉我这么多，谢谢了。",
+      "context": "感谢帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 1,
+      "japanese": "いや、この路線はどこでも同じ料金ですよ。",
+      "romaji": "Iya, kono rosen wa doko demo onaji ryoukin desu yo.",
+      "chinese": "不是的，整条线上坐到哪里都是一个价。",
+      "context": "解释规则",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 1,
+      "japanese": "よかった。安心しました。",
+      "romaji": "Yokatta. Anshin shimashita.",
+      "chinese": "太好了。那我就放心了。",
+      "context": "表达安心",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 37,
+      "episode": 1,
+      "japanese": "はい、乗れますよ。乗るときにタッチすればいいんですよ。",
+      "romaji": "Hai, noreru masu yo. Noru toki ni tatchi sureba ii n desu yo.",
+      "chinese": "有的，当然可以。上车的时候刷卡就行。",
+      "context": "说明使用方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 1,
+      "japanese": "あ、Suicaならあります。これで乗れるんですか。",
+      "romaji": "A, Suica nara arimasu. Kore de norerun desu ka.",
+      "chinese": "啊，Suica的话我有。这样我能用它坐车吗？",
+      "context": "确认使用方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 1,
+      "japanese": "五千円札は両替できないんじゃないかな、確か。",
+      "romaji": "Gosen en satsu wa ryougae dekinai n janai kana, tashika.",
+      "chinese": "我记得5000日元好像确实是找不开的。",
+      "context": "说明情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 1,
+      "japanese": "ああ、そうですか。あ、五千円札しかない…困ったなあ。",
+      "romaji": "Aa, soudesu ka. A, gosen en satsu shika nai... komatta naa.",
+      "chinese": "这样啊。啊，我只有5000日元的纸钞……这可怎么办。",
+      "context": "表达困扰",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 1,
+      "japanese": "ええ、できますよ。千円札と五百円玉なら。",
+      "romaji": "Ee, dekimasu yo. Sen en satsu to gohyaku en dama nara.",
+      "chinese": "可以的。可以换开1000日元的纸钞和500日元的硬币。",
+      "context": "提供解决方案",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 1,
+      "japanese": "ありがとうございます。えーと、バスの中で両替はできますか。",
+      "romaji": "Arigatou gozaimasu. Eeto, basu no naka de ryougae wa dekimasu ka.",
+      "chinese": "谢谢。那个，巴士上可以换零钱吗?",
+      "context": "询问服务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 1,
+      "japanese": "松田駅前？ ああ、大丈夫ですよ。",
+      "romaji": "Matsuda ekimae? Aa, daijoubu desu yo.",
+      "chinese": "松田站口吗?哦哦，可以的。",
+      "context": "确认路线",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 1,
+      "japanese": "あの、すみません。松田駅前に行くバスは、ここでいいですか。",
+      "romaji": "Ano, sumimasen. Matsuda ekimae ni iku basu wa, koko de ii desu ka.",
+      "chinese": "那个，不好意思。请问去松田站口的巴士是在这里坐车吗?",
+      "context": "询问车站", 
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 1,
+      "japanese": "そうですか。それは何よりですね。",
+      "romaji": "Soudesu ka. Sore wa nan yori desu ne.",
+      "chinese": "这样啊，那就太好了。",
+      "context": "表达满意",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 46,
+      "episode": 1,
+      "japanese": "あ、そうですか。元気そうですね。仕事はどうですか？",
+      "romaji": "A, soudesu ka. Genki sou desu ne. Shigoto wa dou desu ka?",
+      "chinese": "这样啊。看你还挺精神的。工作怎么样?",
+      "context": "关心对方",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 1,
+      "japanese": "東京には3日だけなんですが。そのあと大阪に行きます。",
+      "romaji": "Tokyo ni wa 3 nichi dake nan desu ga. Sono ato Osaka ni ikimasu.",
+      "chinese": "我在东京待3天。之后要去大阪。",
+      "context": "说明行程",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 1,
+      "japanese": "はい。会社でいい上司や先輩にめぐまれて、頑張ってます。",
+      "romaji": "Hai. Kaisha de ii joushi ya senpai ni megumarete, ganbatte masu.",
+      "chinese": "在公司里上司和前辈们都很好，我也有好好努力。",
+      "context": "谈论工作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 1,
+      "japanese": "2年ぶりですね。東京にはいつまでですか？",
+      "romaji": "2 nen buri desu ne. Tokyo ni wa itsu made desu ka?",
+      "chinese": "都过去2年了呢。你在东京待多久?",
+      "context": "询问停留时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 1,
+      "japanese": "はい、出張で東京に来たので、いらっしゃるかなと思いまして。",
+      "romaji": "Hai, shucchou de Tokyo ni kita node, irassharu kana to omoimashite.",
+      "chinese": "是的。我这次是到东京出差来的，还在想老师会不会在。",
+      "context": "说明来意",
+      "difficulty": "advanced"
+    }
+  ]
+}

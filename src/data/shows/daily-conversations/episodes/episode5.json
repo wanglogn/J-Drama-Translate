@@ -1,0 +1,455 @@
+{
+  "number": 5,
+  "title": "第五集：工作与生活",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 5,
+      "japanese": "もしもし。今日カットとシャンプーをお願いしたいんですが…。",
+      "romaji": "Moshi moshi. Kyou katto to shanpuu o onegaishitain desu ga...",
+      "chinese": "喂?我想预约一下洗头和剪头。",
+      "context": "理发店预约",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 5,
+      "japanese": "明日は仕事休みだから、ドライブでも行く？",
+      "romaji": "Ashita wa shigoto yasumi dakara, doraibu demo iku?",
+      "chinese": "明天不上班，要不要去兜风?",
+      "context": "邀请出游",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 5,
+      "japanese": "部長、お先に失礼します。",
+      "romaji": "Buchou, osaki ni shitsurei shimasu.",
+      "chinese": "部长，我就先告辞了。",
+      "context": "下班告别",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 5,
+      "japanese": "すみません。今は猫の手も借りたいぐらいなんです。",
+      "romaji": "Sumimasen. Ima wa neko no te mo karitai gurai nan desu.",
+      "chinese": "抱歉，我现在真是忙得不可开交。",
+      "context": "工作忙碌",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 5,
+      "episode": 5,
+      "japanese": "来週は、しばらく北海道なんだ。",
+      "romaji": "Raishuu wa, shibaraku Hokkaido nan da.",
+      "chinese": "下周我要去北海道待一段时间。",
+      "context": "告知出差计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 5,
+      "japanese": "今日の会議は何時からですか？",
+      "romaji": "Kyou no kaigi wa nanji kara desu ka?",
+      "chinese": "今天的会议几点开始？",
+      "context": "询问会议时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 5,
+      "japanese": "資料は準備できましたか？",
+      "romaji": "Shiryou wa junbi dekimashita ka?",
+      "chinese": "资料准备好了吗？",
+      "context": "询问工作准备情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 5,
+      "japanese": "明日の締め切りに間に合いますか？",
+      "romaji": "Ashita no shimekiri ni maniaimasu ka?",
+      "chinese": "能赶上明天的截止日期吗？",
+      "context": "询问工作进度",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 5,
+      "japanese": "このレポートをチェックしていただけますか？",
+      "romaji": "Kono repo-to o chekku shite itadakemasu ka?",
+      "chinese": "能帮我检查一下这份报告吗？",
+      "context": "请求检查工作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 5,
+      "japanese": "会議室は今、空いていますか？",
+      "romaji": "Kaigishitsu wa ima, aite imasu ka?",
+      "chinese": "会议室现在空着吗？",
+      "context": "询问会议室使用情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 5,
+      "japanese": "コピー機が故障しています。",
+      "romaji": "Kopii ki ga koshou shite imasu.",
+      "chinese": "复印机坏了。",
+      "context": "报告设备故障",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 5,
+      "japanese": "プリンターに用紙がないです。",
+      "romaji": "Purinta- ni youshi ga nai desu.",
+      "chinese": "打印机没有纸了。",
+      "context": "报告办公用品短缺",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 13,
+      "episode": 5,
+      "japanese": "今日の仕事は何時までですか？",
+      "romaji": "Kyou no shigoto wa nanji made desu ka?",
+      "chinese": "今天工作到几点？",
+      "context": "询问工作时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 14,
+      "episode": 5,
+      "japanese": "明日、遅刻してもいいですか？",
+      "romaji": "Ashita, chikoku shite mo ii desu ka?",
+      "chinese": "明天我可以晚点到吗？",
+      "context": "请求迟到许可",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 5,
+      "japanese": "来週の水曜日、休暇を取りたいのですが。",
+      "romaji": "Raishuu no suiyoubi, kyuuka o toritai no desu ga.",
+      "chinese": "我想下周三请假。",
+      "context": "申请休假",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 5,
+      "japanese": "今日の昼ご飯は一緒に食べませんか？",
+      "romaji": "Kyou no hirugohan wa issho ni tabemasen ka?",
+      "chinese": "今天一起吃午饭吗？",
+      "context": "邀请午餐",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 5,
+      "japanese": "会議の資料をメールで送ってください。",
+      "romaji": "Kaigi no shiryou o meeru de okutte kudasai.",
+      "chinese": "请把会议资料用邮件发给我。",
+      "context": "请求发送资料",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 5,
+      "japanese": "このプロジェクトの進捗を教えてください。",
+      "romaji": "Kono purojekuto no shincho o oshiete kudasai.",
+      "chinese": "请告诉我这个项目的进展情况。",
+      "context": "询问项目进展",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 19,
+      "episode": 5,
+      "japanese": "新しいプロジェクトに参加したいのですが。",
+      "romaji": "Atarashii purojekuto ni sanka shitai no desu ga.",
+      "chinese": "我想参加新项目。",
+      "context": "表达参与意愿",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 5,
+      "japanese": "給料はいつ支払われますか？",
+      "romaji": "Kyuuryou wa itsu shiharawaremasu ka?",
+      "chinese": "工资什么时候发？",
+      "context": "询问发薪日",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "episode": 5,
+      "japanese": "今日は早めに帰ってもいいですか？",
+      "romaji": "Kyou wa hayame ni kaette mo ii desu ka?",
+      "chinese": "今天我可以早点回去吗？",
+      "context": "请求早退",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 5,
+      "japanese": "この仕事は手伝っていただけますか？",
+      "romaji": "Kono shigoto wa tetsudatte itadakemasu ka?",
+      "chinese": "能帮我做这个工作吗？",
+      "context": "请求工作帮助",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 5,
+      "japanese": "今日の打ち合わせはキャンセルになりました。",
+      "romaji": "Kyou no uchi awase wa kyanseru ni narimashita.",
+      "chinese": "今天的会议取消了。",
+      "context": "通知会议取消",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 5,
+      "japanese": "新しい同僚を紹介します。",
+      "romaji": "Atarashii douryou o shoukai shimasu.",
+      "chinese": "我来介绍一下新同事。",
+      "context": "介绍新同事",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 5,
+      "japanese": "お世話になります。田中です。",
+      "romaji": "Osewa ni narimasu. Tanaka desu.",
+      "chinese": "请多关照。我是田中。",
+      "context": "自我介绍",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 26,
+      "episode": 5,
+      "japanese": "今日からこの部署に配属になりました。",
+      "romaji": "Kyou kara kono busho ni haizoku ni narimashita.",
+      "chinese": "从今天起我被分配到这个部门。",
+      "context": "说明工作调动",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 27,
+      "episode": 5,
+      "japanese": "この仕事の手順を教えていただけますか？",
+      "romaji": "Kono shigoto no tejun o oshiete itadakemasu ka?",
+      "chinese": "能教我这个工作的流程吗？",
+      "context": "请求工作指导",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 5,
+      "japanese": "今日は残業が必要ですか？",
+      "romaji": "Kyou wa zangyou ga hitsuyou desu ka?",
+      "chinese": "今天需要加班吗？",
+      "context": "询问加班情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 5,
+      "japanese": "先週の残業代はいつもらえますか？",
+      "romaji": "Senshuu no zangyou dai wa itsu moraerimasu ka?",
+      "chinese": "上周的加班费什么时候发？",
+      "context": "询问加班费",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 30,
+      "episode": 5,
+      "japanese": "会社の休暇制度はどのようになっていますか？",
+      "romaji": "Kaisha no kyuuka seido wa dono you ni natte imasu ka?",
+      "chinese": "公司的休假制度是怎样的？",
+      "context": "询问休假制度",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 31,
+      "episode": 5,
+      "japanese": "今度の社員旅行はいつですか？",
+      "romaji": "Kondo no shain ryokou wa itsu desu ka?",
+      "chinese": "下次员工旅行是什么时候？",
+      "context": "询问公司活动",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 5,
+      "japanese": "来月のボーナスはいつ出ますか？",
+      "romaji": "Raigetsu no bousu wa itsu demasu ka?",
+      "chinese": "下个月的奖金什么时候发？",
+      "context": "询问奖金发放",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 5,
+      "japanese": "昇給の可能性はありますか？",
+      "romaji": "Shoukyu no kanousei wa arimasu ka?",
+      "chinese": "有加薪的可能吗？",
+      "context": "询问加薪",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 34,
+      "episode": 5,
+      "japanese": "退職したいと思います。",
+      "romaji": "Taishoku shitai to omoimasu.",
+      "chinese": "我想辞职。",
+      "context": "提出辞职",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 5,
+      "japanese": "退職手続きはどのようにすればいいですか？",
+      "romaji": "Taishoku tetsuzuki wa dono you ni sureba ii desu ka?",
+      "chinese": "辞职手续怎么办？",
+      "context": "询问辞职流程",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 36,
+      "episode": 5,
+      "japanese": "今日は会社を休みます。",
+      "romaji": "Kyou wa kaisha o yasuminimasu.",
+      "chinese": "我今天请假。",
+      "context": "请假",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 37,
+      "episode": 5,
+      "japanese": "風邪を引いたので、今日は休みます。",
+      "romaji": "Kaze o hii ta node, kyou wa yasuminimasu.",
+      "chinese": "我感冒了，今天请假。",
+      "context": "因病请假",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 5,
+      "japanese": "病気の証明書が必要ですか？",
+      "romaji": "Byouki no shoumei sho ga hitsuyou desu ka?",
+      "chinese": "需要病假证明吗？",
+      "context": "询问病假要求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 5,
+      "japanese": "会社の制服はどこでもらえますか？",
+      "romaji": "Kaisha no seifuku wa doko de moraemasu ka?",
+      "chinese": "公司制服在哪里领？",
+      "context": "询问制服领取",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 5,
+      "japanese": "今日のミーティングは英語で行いますか？",
+      "romaji": "Kyou no miitingu wa eigo de okonaimasu ka?",
+      "chinese": "今天的会议用英语进行吗？",
+      "context": "询问会议语言",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 5,
+      "japanese": "海外出張の申請はどこですか？",
+      "romaji": "Kaigai shucchou no shinsei wa doko desu ka?",
+      "chinese": "海外出差申请在哪里办理？",
+      "context": "询问出差申请",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 42,
+      "episode": 5,
+      "japanese": "出張の経費精算はいつまでに提出しなければなりませんか？",
+      "romaji": "Shucchou no keihi seisan wa itsu made ni teishutsu shinakereba narimasen ka?",
+      "chinese": "出差费用报销必须在什么时候提交？",
+      "context": "询问报销期限",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 43,
+      "episode": 5,
+      "japanese": "今日の帰りに飲み会がありますよ。",
+      "romaji": "Kyou no kaeri ni nomikai ga arimasu yo.",
+      "context": "通知下班后聚会",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 5,
+      "japanese": "飲み会に参加できますか？",
+      "romaji": "Nomikai ni sanka dekimasu ka?",
+      "chinese": "你能参加聚会吗？",
+      "context": "邀请参加聚会",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 5,
+      "japanese": "先輩、この仕事のやり方を教えていただけますか？",
+      "romaji": "Senpai, kono shigoto no yarikata o oshiete itadakemasu ka?",
+      "chinese": "前辈，能教我这个工作怎么做吗？",
+      "context": "向前辈请教",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 5,
+      "japanese": "今日の仕事お疲れ様でした。",
+      "romaji": "Kyou no shigoto otsukaresama deshita.",
+      "chinese": "今天的工作辛苦了。",
+      "context": "下班问候",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 47,
+      "episode": 5,
+      "japanese": "明日も頑張りましょう。",
+      "romaji": "Ashita mo ganbarimashou.",
+      "chinese": "明天也要加油哦。",
+      "context": "鼓励同事",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 48,
+      "episode": 5,
+      "japanese": "週末は何をしますか？",
+      "romaji": "Shuumatsu wa nani o shimasu ka?",
+      "chinese": "周末做什么？",
+      "context": "询问周末计划",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 49,
+      "episode": 5,
+      "japanese": "週末は家でゆっくり休みます。",
+      "romaji": "Shuumatsu wa ie de yukkuri yasuminimasu.",
+      "chinese": "周末在家好好休息。",
+      "context": "说明周末计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 5,
+      "japanese": "来週の土曜日、映画を見に行きませんか？",
+      "romaji": "Raishuu no doyoubi, eiga o mi ni ikimasen ka?",
+      "chinese": "下周六去看电影吗？",
+      "context": "邀请看电影",
+      "difficulty": "intermediate"
+    }
+  ]
+}

@@ -3,6 +3,7 @@ import TranslationCard from '@/components/TranslationCard';
 import { getLinesByShowAndEpisode, getEpisodesByShow, TranslationItem } from '@/data/translationData';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { getShowById } from '@/data/shows';
+import { markLineAsCompleted } from '@/lib/progress';
 
 export default function PracticePage() {
   const [translationItems, setTranslationItems] = useState<TranslationItem[]>([]);

@@ -1,0 +1,456 @@
+{
+  "number": 8,
+  "title": "第八集：医疗咨询",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 8,
+      "japanese": "あの、腕の内側のところに赤いぶつぶつができちゃって。",
+      "romaji": "Ano, ude no uchigawa no tokoro ni akai butsubutsu ga dekichatte.",
+      "chinese": "那个，我手臂内侧长了些红色的小疹子。",
+      "context": "描述皮肤症状",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "episode": 8,
+      "japanese": "はい。すごくかゆくて、ついかいちゃって。そしたらますますかゆいところが広がってしまったんですけど。",
+      "romaji": "Hai. Sugoku kayukute, tsui kaichatte. Soshitara masumasu kayui tokoro ga hirogatte shimattan desu kedo.",
+      "chinese": "是的，超级痒，我忍不住去挠，然后痒的地方范围越来越大。",
+      "context": "描述症状发展",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 3,
+      "episode": 8,
+      "japanese": "これはたぶん、毛虫に刺されたんですね。木の葉っぱに触ったりしませんでしたか。",
+      "romaji": "Kore wa tabun, kemushi ni sasareta n desu ne. Ki no happa ni furetari shimashitaka.",
+      "chinese": "这大概是被毛毛虫扎到了。你是不是碰了什么树叶之类的。",
+      "context": "医生诊断",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 8,
+      "japanese": "そのときに触っちゃったのかもしれませんね。とりあえず塗り薬を出しておきますので、様子をみてください。",
+      "romaji": "Sono toki ni furechatta no kamo shiremasen ne. Toriaezu nurigusuri o dashite okimasu node, yousu o mite kudasai.",
+      "chinese": "那可能就是那会儿碰到了。我先开个外用药给你，看看情况吧。",
+      "context": "医生开药",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "episode": 8,
+      "japanese": "あ、昨日公園で、木がたくさんあるところを歩きました。",
+      "romaji": "A, kinou kouen de, ki ga takusan aru tokoro o arukimashita.",
+      "chinese": "啊，我昨天去了公园，在有很多树的地方散了步。",
+      "context": "描述可能病因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "episode": 8,
+      "japanese": "病気の診断を受けたいのですが、どの科に行けばいいですか？",
+      "romaji": "Byouki no shindan o uketai no desu ga, dono ka ni ikeba ii desu ka?",
+      "chinese": "我想看病，应该挂哪个科？",
+      "context": "询问科室",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 8,
+      "japanese": "皮膚科を受診したいのですが、予約は必要ですか？",
+      "romaji": "Hifuka o jushin shitai no desu ga, yoyaku wa hitsuyou desu ka?",
+      "chinese": "我想看皮肤科，需要预约吗？",
+      "context": "预约皮肤科",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 8,
+      "japanese": "次回の予約はいつにしますか？",
+      "romaji": "Jikai no yoyaku wa itsu ni shimasu ka?",
+      "chinese": "下次预约定在什么时候？",
+      "context": "预约下次就诊",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "episode": 8,
+      "japanese": "今日の診察料はいくらですか？",
+      "romaji": "Kyou no shinsatsu ryou wa ikura desu ka?",
+      "chinese": "今天的诊疗费是多少？",
+      "context": "询问诊疗费",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 8,
+      "japanese": "保険で一部負担になりますか？",
+      "romaji": "Hoken de ichibu futan ni narimasu ka?",
+      "chinese": "保险能报销一部分吗？",
+      "context": "询问保险报销",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 8,
+      "japanese": "この症状はアレルギーですか？",
+      "romaji": "Kono shoujou wa arerugi- desu ka?",
+      "chinese": "这个症状是过敏吗？",
+      "context": "询问诊断结果",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "episode": 8,
+      "japanese": "検査が必要ですか？",
+      "romaji": "Kensa ga hitsuyou desu ka?",
+      "chinese": "需要做检查吗？",
+      "context": "询问检查必要性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "episode": 8,
+      "japanese": "血液検査をしますか？",
+      "romaji": "Ketsueki kensa o shimasu ka?",
+      "chinese": "要做血液检查吗？",
+      "context": "询问检查项目",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "episode": 8,
+      "japanese": "検査の結果はいつでもらえますか？",
+      "romaji": "Kensa no kekka wa itsu de moraemasu ka?",
+      "chinese": "什么时候能拿到检查结果？",
+      "context": "询问检查结果时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 8,
+      "japanese": "この薬は何回飲めばいいですか？",
+      "romaji": "Kono kusuri wa nankai nomeba ii desu ka?",
+      "chinese": "这个药要吃几次？",
+      "context": "询问用药次数",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 8,
+      "japanese": "副作用はありますか？",
+      "romaji": "Fukuyouhou wa arimasu ka?",
+      "chinese": "有副作用吗？",
+      "context": "询问副作用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "episode": 8,
+      "japanese": "飲み方を教えてください。",
+      "romaji": "Nomikata o oshiete kudasai.",
+      "chinese": "请告诉我怎么吃。",
+      "context": "询问用药方法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 8,
+      "japanese": "食事と一緒に飲んでもいいですか？",
+      "romaji": "Shokuji to issho ni nonde mo ii desu ka?",
+      "chinese": "可以和饭一起吃吗？",
+      "context": "询问用药时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "episode": 8,
+      "japanese": "飲酒は避けなければなりませんか？",
+      "romaji": "Inshu wa sake nakereba narimasen ka?",
+      "chinese": "必须避免喝酒吗？",
+      "context": "询问饮食禁忌",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "episode": 8,
+      "japanese": "症状が悪化した場合はどうしたらいいですか？",
+      "romaji": "Shoujou ga akka shita baai wa dou shitara ii desu ka?",
+      "chinese": "如果症状恶化怎么办？",
+      "context": "询问应对措施",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 21,
+      "episode": 8,
+      "japanese": "この薬は他の薬と一緒に飲んでもいいですか？",
+      "romaji": "Kono kusuri wa hoka no kusuri to issho ni nonde mo ii desu ka?",
+      "chinese": "这个药可以和其他药一起吃吗？",
+      "context": "询问药物相互作用",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 22,
+      "episode": 8,
+      "japanese": "外用薬の塗り方を教えてください。",
+      "romaji": "Gaiyou yaku no nurikata o oshiete kudasai.",
+      "chinese": "请告诉我外用药的涂抹方法。",
+      "context": "询问外用药用法",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 8,
+      "japanese": "何日間塗りますか？",
+      "romaji": "Nan nichi kan nurimasu ka?",
+      "chinese": "要涂多少天？",
+      "context": "询问用药周期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 8,
+      "japanese": "化粧品は使ってもいいですか？",
+      "romaji": "Keshouhin wa tsukatte mo ii desu ka?",
+      "chinese": "可以使用化妆品吗？",
+      "context": "询问日常护理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 8,
+      "japanese": "風呂に入っても大丈夫ですか？",
+      "romaji": "Furo ni haitte mo daijoubu desu ka?",
+      "chinese": "可以洗澡吗？",
+      "context": "询问日常活动",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 8,
+      "japanese": "運動はできますか？",
+      "romaji": "Undou wa dekimasu ka?",
+      "chinese": "可以运动吗？",
+      "context": "询问活动限制",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 8,
+      "japanese": "仕事に行ってもいいですか？",
+      "romaji": "Shigoto ni itte mo ii desu ka?",
+      "chinese": "可以去上班吗？",
+      "context": "询问工作许可",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 8,
+      "japanese": "休養が必要ですか？",
+      "romaji": "Kyouyou ga hitsuyou desu ka?",
+      "chinese": "需要休养吗？",
+      "context": "询问休养必要性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 8,
+      "japanese": "食事制限はありますか？",
+      "romaji": "Shokuji seigen wa arimasu ka?",
+      "chinese": "有饮食限制吗？",
+      "context": "询问饮食建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 8,
+      "japanese": "栄養補助食品を摂取してもいいですか？",
+      "romaji": "Eiyou hojo shokuhin o sesshu shite mo ii desu ka?",
+      "chinese": "可以吃营养补充食品吗？",
+      "context": "询问营养补充",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 31,
+      "episode": 8,
+      "japanese": "この症状は伝染性がありますか？",
+      "romaji": "Kono shoujou wa densen sei ga arimasu ka?",
+      "chinese": "这个症状有传染性吗？",
+      "context": "询问传染性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 8,
+      "japanese": "家族にも注意が必要ですか？",
+      "romaji": "Kazoku ni mo chuui ga hitsuyou desu ka?",
+      "chinese": "家人也需要注意吗？",
+      "context": "询问家人防护",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 8,
+      "japanese": "治るまでどれくらい時間がかかりますか？",
+      "romaji": "Noru made dore gurai jikan ga kakarimasu ka?",
+      "chinese": "要多久才能治好？",
+      "context": "询问治愈时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 8,
+      "japanese": "再発する可能性はありますか？",
+      "romaji": "Sa hatsu suru kanousei wa arimasu ka?",
+      "chinese": "有复发的可能吗？",
+      "context": "询问复发可能性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 8,
+      "japanese": "予防する方法はありますか？",
+      "romaji": "Yobou suru houhou wa arimasu ka?",
+      "chinese": "有预防方法吗？",
+      "context": "询问预防措施",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 8,
+      "japanese": "専門医に紹介していただけますか？",
+      "romaji": "Senmon i ni shoukai shite itadakemasu ka?",
+      "chinese": "能介绍我去看专科医生吗？",
+      "context": "请求转诊",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 37,
+      "episode": 8,
+      "japanese": "第二意見を求めたいのですが。",
+      "romaji": "Daini iken o motometai no desu ga.",
+      "chinese": "我想寻求第二意见。",
+      "context": "请求二次诊断",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 38,
+      "episode": 8,
+      "japanese": "診断書をください。",
+      "romaji": "Shindan sho o kudasai.",
+      "chinese": "请给我诊断书。",
+      "context": "请求诊断证明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 8,
+      "japanese": "休暇届に必要な書類はこれですか？",
+      "romaji": "Kyuuka todoke ni hitsuyou na shorui wa kore desu ka?",
+      "chinese": "请假需要的文件是这个吗？",
+      "context": "询问请假文件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 8,
+      "japanese": "オンライン診察は可能ですか？",
+      "romaji": "Onrain shinsatsu wa kanou desu ka?",
+      "chinese": "可以在线诊疗吗？",
+      "context": "询问在线医疗",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 8,
+      "japanese": "夜間の急病の場合はどこに行けばいいですか？",
+      "romaji": "Yakan no kyuubyou no baai wa doko ni ikeba ii desu ka?",
+      "chinese": "夜间急诊应该去哪里？",
+      "context": "询问急诊信息",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 8,
+      "japanese": "薬局は何時まで開いていますか？",
+      "romaji": "Yakkyoku wa nanji made aite imasu ka?",
+      "chinese": "药店开到几点？",
+      "context": "询问药店营业时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 8,
+      "japanese": "この薬はどこの薬局でも買えますか？",
+      "romaji": "Kono kusuri wa doko no yakkyoku de mo kaemasu ka?",
+      "chinese": "这个药在任何药店都能买到吗？",
+      "context": "询问药品购买地点",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 8,
+      "japanese": "薬の服用を忘れた場合はどうしたらいいですか？",
+      "romaji": "Kusuri no fuyou o wasureta baai wa dou shitara ii desu ka?",
+      "chinese": "忘记吃药了怎么办？",
+      "context": "询问漏服处理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 8,
+      "japanese": "この病気は慢性ですか？",
+      "romaji": "Kono byouki wa manseki desu ka?",
+      "chinese": "这个病是慢性病吗？",
+      "context": "询问疾病性质",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 8,
+      "japanese": "生活習慣を変えたほうがいいですか？",
+      "romaji": "Seikatsu shuukan o kaeta hou ga ii desu ka?",
+      "chinese": "需要改变生活习惯吗？",
+      "context": "询问生活建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 8,
+      "japanese": "禁煙が必要ですか？",
+      "romaji": "Kinen ga hitsuyou desu ka?",
+      "chinese": "需要戒烟吗？",
+      "context": "询问生活习惯改变",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 8,
+      "japanese": "定期的な検査が必要ですか？",
+      "romaji": "Teikiteki na kensa ga hitsuyou desu ka?",
+      "chinese": "需要定期检查吗？",
+      "context": "询问复查必要性",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 8,
+      "japanese": "この症状は年齢によるものですか？",
+      "romaji": "Kono shoujou wa nenrei ni yoru mono desu ka?",
+      "chinese": "这个症状和年龄有关吗？",
+      "context": "询问病因",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 8,
+      "japanese": "治療には費用がかかりますか？",
+      "romaji": "Chiryou ni wa hiyou ga kakarimasu ka?",
+      "chinese": "治疗需要费用吗？",
+      "context": "询问治疗费用",
+      "difficulty": "intermediate"
+    }
+  ]
+}

@@ -26,6 +26,13 @@ export const shows: Show[] = [
     description: '一部浪漫爱情剧，讲述了女主角与男友之间的情感纠葛',
     coverImage: pleaseMarryMyBoyfriendCover,
     episodeCount: 12
+  },
+  {
+    id: 'daily-conversations',
+    "title": "日常日语会话",
+    "description": "包含各种日常场景的实用日语对话，适合学习日常生活用语",
+    "coverImage": "https://space.coze.cn/api/coze_space/gen_image?image_size=landscape_16_9&prompt=Japanese%20daily%20conversation%20poster%2C%20minimalist%20design%2C%20green%20and%20white%20color%20scheme&sign=eaac38d4b632e3806e4bed69c19fd967",
+    "episodeCount": 12
   }
 ];
 
