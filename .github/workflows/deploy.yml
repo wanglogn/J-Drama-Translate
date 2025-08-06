@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # 你也可以改为 master 或其他默认分支名
+      - main
 
 jobs:
   deploy:
@@ -23,6 +23,10 @@ jobs:
         uses: pnpm/action-setup@v3
         with:
           version: 10.14.0
+          run_install: false  # ✅ 不自动安装依赖，让我们手动执行
+
+      - name: Add pnpm to PATH
+        run: echo "${HOME}/.local/share/pnpm" >> $GITHUB_PATH
 
       - name: Install dependencies
         run: pnpm install
