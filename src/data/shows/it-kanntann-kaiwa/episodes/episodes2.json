@@ -1,0 +1,491 @@
+{
+  "number": 2,
+  "title": "日本IT职场会话练习",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 2,
+      "japanese": "おはようございます。今日のスクラムミーティングを始めましょう。",
+      "romaji": "Ohayou gozaimasu. Kyou no sukuramumitiingu wo hajimemashou.",
+      "chinese": "早上好，开始今天的站会吧。",
+      "context": "敏捷开发团队晨会开场",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 2,
+      "japanese": "昨日はユーザー認証機能のデバッグをしましたが、まだ不具合が残っています。",
+      "romaji": "Kinou wa yuzaa ninsyou kinou no debaggu wo shimashita ga, mada fuguai ga nokotteimasu.",
+      "chinese": "昨天调试了用户认证功能，但还有bug没解决。",
+      "context": "汇报昨日工作进展",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "episode": 2,
+      "japanese": "この関数の命名規則がPEP8に準拠していません。修正をお願いします。",
+      "romaji": "Kono kansuu no meimei kisoku ga PEP8 ni junkyo shiteimasen. Shuusei wo onegaishimasu.",
+      "chinese": "这个函数的命名不符合PEP8规范，请修改。",
+      "context": "代码审查时指出规范问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "episode": 2,
+      "japanese": "単体テストのカバレッジが80%を下回っています。テストケースを追加してください。",
+      "romaji": "Tantai tesuto no kabarejji ga 80% wo shimottekimasu. Tesuto keisu wo tsuika shitekudasai.",
+      "context": "要求提高测试覆盖率",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 5,
+      "episode": 2,
+      "japanese": "おはようございます。今日のスクラムミーティングを始めましょう。",
+      "romaji": "Ohayou gozaimasu. Kyou no sukuramumitiingu wo hajimemashou.",
+      "chinese": "早上好，开始今天的站会吧。",
+      "context": "敏捷开发团队日常站会与任务分配",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 6,
+      "episode": 2,
+      "japanese": "昨日はユーザー認証機能のデバッグをしましたが、まだ不具合が残っています。",
+      "romaji": "Kinou wa yuzaa ninsyou kinou no debaggu wo shimashita ga, mada fuguai ga nokotteimasu.",
+      "chinese": "昨天调试了用户认证功能，但还有bug没解决。",
+      "context": "敏捷开发团队日常站会与任务分配",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "episode": 2,
+      "japanese": "今日はデータベースの最適化を行います。インデックスを再構築する予定です。",
+      "romaji": "Kyou wa deetaabase no saitekika wo okonaimasu. Indekkusu wo saikouchiku suru yotei desu.",
+      "chinese": "今天将进行数据库优化，计划重建索引。",
+      "context": "敏捷开发团队日常站会与任务分配",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "episode": 2,
+      "japanese": "今週のスプリントゴールはユーザー登録機能のリリースです。遅延がないように注意してください。",
+      "romaji": "Konshuu no supurinto gooru wa yuzaa touroku kinou no rirīsu desu. Chien ga nai you ni chuui shitekudasai.",
+      "chinese": "本周的冲刺目标是用户注册功能发布，请注意不要延迟。",
+      "context": "敏捷开发团队日常站会与任务分配",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 9,
+      "episode": 2,
+      "japanese": "私は今日、APIドキュメントの作成を担当します。共有ドライブに午後中にアップロードします。",
+      "romaji": "Watashi wa kyou, API dokyumento no sakusei wo tantou shimasu. Kyouyuu doraibu ni gogochuu ni appuroodo shimasu.",
+      "chinese": "我今天负责API文档的编写，下午会上传到共享驱动器。",
+      "context": "敏捷开发团队日常站会与任务分配",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "episode": 2,
+      "japanese": "この関数の命名規則がPEP8に準拠していません。修正をお願いします。",
+      "romaji": "Kono kansuu no meimei kisoku ga PEP8 ni junkyo shiteimasen. Shuusei wo onegaishimasu.",
+      "chinese": "这个函数的命名不符合PEP8规范，请修改。",
+      "context": "编程实现与代码质量检查",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "episode": 2,
+      "japanese": "単体テストのカバレッジが80%を下回っています。テストケースを追加してください。",
+      "romaji": "Tantai tesuto no kabarejji ga 80% wo shimottekimasu. Tesuto keisu wo tsuika shitekudasai.",
+      "chinese": "单元测试覆盖率低于80%，请添加测试用例。",
+      "context": "编程实现与代码质量检查",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 12,
+      "episode": 2,
+      "japanese": "Visual Studioを起動して、ソリューションファイルを開いてください。",
+      "romaji": "Bijuaru Sutyudio wo kidou shite, soryuushon fairu wo hiraite kudasai.",
+      "chinese": "请启动Visual Studio并打开解决方案文件。",
+      "context": "编程实现与代码质量检查",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 13,
+      "episode": 2,
+      "japanese": "このSQLクエリにインデックスが適用されていません。実行計画を確認して最適化してください。",
+      "romaji": "Kono SQL kueri ni indekkusu ga tekiyousareteimasen. Jikkou keikaku wo kakunin shite saitekika shitekudasai.",
+      "chinese": "这个SQL查询没有应用索引，请确认执行计划并优化。",
+      "context": "编程实现与代码质量检查",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 14,
+      "episode": 2,
+      "japanese": "例外処理が不十分です。NullReferenceExceptionに対する対策を追加してください。",
+      "romaji": "Reigai shori ga fujuu bun desu. NullReferenceException ni taisuru taisaku wo tsuika shitekudasai.",
+      "chinese": "异常处理不充分，请添加针对NullReferenceException的对策。",
+      "context": "编程实现与代码质量检查",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "episode": 2,
+      "japanese": "サーバーのCPU使用率が90%を超えています。原因を調査してください。",
+      "romaji": "Saabaa no CPU shiyouritsu ga 90% wo koeteimasu. Gen'in wo chousa shitekudasai.",
+      "chinese": "服务器CPU使用率超过90%，请调查原因。",
+      "context": "生产环境问题诊断与修复",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "episode": 2,
+      "japanese": "エラーログに「データベース接続失敗」のメッセージが大量に記録されています。",
+      "romaji": "Eiraa rogu ni 「deetaabase setsuzoku shippai」 no messēji ga tairyoun ni kirokusareteimasu.",
+      "chinese": "错误日志中大量记录了“数据库连接失败”的消息。",
+      "context": "生产环境问题诊断与修复",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 2,
+      "japanese": "再起動後も問題が再現します。サービスの依存関係を確認してください。",
+      "romaji": "Saikidou go mo mondai ga saigen shimasu. Saabisu no izon kankei wo kakunin shitekudasai.",
+      "chinese": "重启后问题仍然重现，请确认服务的依赖关系。",
+      "context": "生产环境问题诊断与修复",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "episode": 2,
+      "japanese": "ネットワーク遅延が発生しています。ルーターの設定を見直してください。",
+      "romaji": "Nettowaaaku chien ga hassei shiteimasu. Ruutaa no settei wo minnaoshite kudasai.",
+      "chinese": "发生网络延迟，请重新检查路由器设置。",
+      "context": "生产环境问题诊断与修复",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 19,
+      "episode": 2,
+      "japanese": "メモリリークが確認されました。ヒープダンプを取得して解析してください。",
+      "romaji": "Memorii riiku ga kakuninsare mashita. Hiipu danpu wo shutoku shite kaiseki shitekudasai.",
+      "chinese": "确认存在内存泄漏，请获取堆转储并分析。",
+      "context": "生产环境问题诊断与修复",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 20,
+      "episode": 2,
+      "japanese": "お客様から新しい機能追加のご要望がありました。来週の打ち合わせで詳細を話し合います。",
+      "romaji": "Okyakusama kara atarashii kinou tsuika no goyoubou ga arimashita. Raishuu no uchiiawase de shousai wo hanashiai masu.",
+      "chinese": "客户提出了新功能添加的需求，下周会议将讨论详情。",
+      "context": "与客户讨论功能需求与规格",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 2,
+      "japanese": "UI/UXのデザインについて、ワイヤーフレームを変更していただきたいとのご意見です。",
+      "romaji": "UI/UX no dezain ni tsuite, waiyaa fureemu wo henkou shiteitadakitai to no goiken desu.",
+      "chinese": "关于UI/UX设计，客户意见希望修改线框图。",
+      "context": "与客户讨论功能需求与规格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 2,
+      "japanese": "納期を1か月延長していただけないでしょうか？機能要件が当初より増えました。",
+      "romaji": "Nouki wo 1 kagetsu enchou shiteitadakenai deshou ka? Kinou youken ga touchu yori fue mashita.",
+      "chinese": "能否将交付期延长一个月？功能需求比最初增加了。",
+      "context": "与客户讨论功能需求与规格",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 23,
+      "episode": 2,
+      "japanese": "ユーザビリティテストの結果、操作が直感的でないとのフィードバックをいただきました。",
+      "romaji": "Yuuzabiriti tesuto no kekka, sousa ga chokkan-teki de nai to no fiidobakku wo itadakimashita.",
+      "chinese": "可用性测试结果显示，操作不够直观的反馈。",
+      "context": "与客户讨论功能需求与规格",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 2,
+      "japanese": "APIのレスポンスタイムが3秒を超えると性能要件を満たせません。改善をお願いします。",
+      "romaji": "API no resuponsu taimu ga 3 byou wo koeru to seinou youken wo mitasemasen. Kaizen wo onegaishimasu.",
+      "chinese": "如果API响应时间超过3秒将无法满足性能要求，请改进。",
+      "context": "与客户讨论功能需求与规格",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 25,
+      "episode": 2,
+      "japanese": "今週の進捗は70%です。来週中にリリース準備が完了する予定です。",
+      "romaji": "Konshuu no shinchoku wa 70% desu. Raishuu chu ni rirīsu junbi ga kanryou suru yotei desu.",
+      "chinese": "本周进度70%，计划下周完成发布准备。",
+      "context": "向上级汇报项目进展与问题",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 26,
+      "episode": 2,
+      "japanese": "設計書のレビューで指摘された点は全て修正済みです。確認をお願いします。",
+      "romaji": "Sekkeisho no rebiyu de shiteki sareta ten wa subete shuusei sumi desu. Kakunin wo onegaishimasu.",
+      "chinese": "设计书评审中指出的问题已全部修正，请确认。",
+      "context": "向上级汇报项目进展与问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 2,
+      "japanese": "開発工数が当初の見積もりを20%上回っています。要因分析を行います。",
+      "romaji": "Kaihatsu kousuu ga touchu no kenkaku mori wo 20% jouetteimasu. Youin bunseki wo okonaimasu.",
+      "chinese": "开发工时比最初估计超出20%，将进行原因分析。",
+      "context": "向上级汇报项目进展与问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 2,
+      "japanese": "テストフェーズで重大な不具合が見つかりました。リリースを1週間延期する必要があります。",
+      "romaji": "Tesuto feーzu de juudaina fuguai ga mitsukarimashita. Rirīsu wo 1 shuukan enki suru hitsuyou ga arimasu.",
+      "chinese": "测试阶段发现严重缺陷，需要将发布延期一周。",
+      "context": "向上级汇报项目进展与问题",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 29,
+      "episode": 2,
+      "japanese": "クライアントサイドのJavaScriptの最適化により、ページ読み込み速度が40%改善されました。",
+      "romaji": "Kuraiannto saido no JavaScript no saitekika ni yori, peeji yomikomi sokudo ga 40% kaizen saremashita.",
+      "chinese": "通过客户端JavaScript优化，页面加载速度提升了40%。",
+      "context": "向上级汇报项目进展与问题",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 30,
+      "episode": 2,
+      "japanese": "マイクロサービスアーキテクチャへの移行を提案します。スケーラビリティが向上します。",
+      "romaji": "Maikuro saabisu aakitekucha e no ikou wo teian shimasu. Sukeerabiriti ga koujou shimasu.",
+      "chinese": "建议迁移到微服务架构，可提高可扩展性。",
+      "context": "团队内部技术选型与架构设计",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 31,
+      "episode": 2,
+      "japanese": "NoSQLデータベースを導入することで、非構造化データの処理効率が向上します。",
+      "romaji": "NoSQL deetaabase wo dounyuu suru koto de, hisouzakuka deeta no shori kouritsu ga koujou shimasu.",
+      "chinese": "引入NoSQL数据库可提高非结构化数据的处理效率。",
+      "context": "团队内部技术选型与架构设计",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 2,
+      "japanese": "CI/CDパイプラインを構築することで、デプロイメントの自動化が可能です。",
+      "romaji": "CI/CD paipurain wo kouchiku suru koto de, deppuroiment no jidouka ga kanou desu.",
+      "chinese": "构建CI/CD流水线可实现部署自动化。",
+      "context": "团队内部技术选型与架构设计",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 2,
+      "japanese": "REST APIよりもGraphQLの方がクライアント側の柔軟性が高いと思います。",
+      "romaji": "REST API yori mo GraphQL no hou ga kuraianto saido no jounansei ga takai to omoimasu.",
+      "chinese": "我认为GraphQL比REST API在客户端更具灵活性。",
+      "context": "团队内部技术选型与架构设计",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 34,
+      "episode": 2,
+      "japanese": "コンテナ化にはDockerを使用し、オーケストレーションにはKubernetesを採用します。",
+      "romaji": "Kontena ka ni wa Docker wo shiyou shi, ooke sutoreshon ni wa Kubernetes wo saiyou shimasu.",
+      "chinese": "容器化使用Docker，编排采用Kubernetes。",
+      "context": "团队内部技术选型与架构设计",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 2,
+      "japanese": "明日の14時にプロジェクトミーティングを予定しています。Zoomのリンクを共有します。",
+      "romaji": "Ashita no 14 ji ni purojekuto miitingu wo yotei shiteimasu. Zoom no rinku wo kyouyuu shimasu.",
+      "chinese": "计划明天14点召开项目会议，将共享Zoom链接。",
+      "context": "组织跨部门会议与日程调整",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 36,
+      "episode": 2,
+      "japanese": "部長が本日の会議に参加できないため、明日の10時に変更します。",
+      "romaji": "Buchou ga honjitsu no kaigi ni sanka dekinai tame, ashita no 10 ji ni henkou shimasu.",
+      "chinese": "部长无法参加今天的会议，改为明天10点。",
+      "context": "组织跨部门会议与日程调整",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 37,
+      "episode": 2,
+      "japanese": "会議資料は事前に共有していますので、ご確認をお願いします。",
+      "romaji": "Kaigi shiryou wa jizen ni kyouyuu shiteimasu node, go kakunin wo onegaishimasu.",
+      "chinese": "会议资料已提前共享，请确认。",
+      "context": "组织跨部门会议与日程调整",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 38,
+      "episode": 2,
+      "japanese": "議事録を作成しますので、重要なポイントをメモしておいてください。",
+      "romaji": "Gijiroku wo sakusei shimasu node, juuyou na pointo wo memo shite oite kudasai.",
+      "chinese": "我将制作会议纪要，请记录重要要点。",
+      "context": "组织跨部门会议与日程调整",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 39,
+      "episode": 2,
+      "japanese": "打ち合わせが2時間延長されました。次の予定を調整してください。",
+      "romaji": "Uchiiawase ga 2 jikan enchou saremashita. Tsugi no yotei wo chousei shitekudasai.",
+      "chinese": "会议延长了2小时，请调整后续安排。",
+      "context": "组织跨部门会议与日程调整",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 40,
+      "episode": 2,
+      "japanese": "APIドキュメントはSwaggerを使用して自動生成します。",
+      "romaji": "API dokyumento wa Swagger wo shiyou shite jidou seisei shimasu.",
+      "chinese": "API文档将使用Swagger自动生成。",
+      "context": "技术文档创作与团队评审",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 2,
+      "japanese": "設計書の用語統一が必要です。用語集を作成して共有します。",
+      "romaji": "Sekkeisho no yougo touitsu ga hitsuyou desu. Yougoushuu wo sakusei shite kyouyuu shimasu.",
+      "chinese": "设计文档需要统一术语，将创建术语集并共享。",
+      "context": "技术文档创作与团队评审",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 42,
+      "episode": 2,
+      "japanese": "ユーザーマニュアルにスクリーンショットを追加してください。操作手順が分かりやすくなります。",
+      "romaji": "Yuzaa manyuaru ni sukurīn shotto wo tsuika shitekudasai. Sousa tejun ga wakariyasuku narimasu.",
+      "chinese": "请在用户手册中添加截图，使操作步骤更易懂。",
+      "context": "技术文档创作与团队评审",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 43,
+      "episode": 2,
+      "japanese": "技術仕様書のバージョン管理にGitを使用します。変更履歴を追跡できます。",
+      "romaji": "Gijutsu shiyousho no baajon kanri ni Git wo shiyou shimasu. Henkou rekishi wo tsuikaku dekimasu.",
+      "chinese": "技术规格书的版本管理将使用Git，可追踪变更历史。",
+      "context": "技术文档创作与团队评审",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 2,
+      "japanese": "ドキュメントのレビューコメントに対応して、修正版を明日中に提出します。",
+      "romaji": "Dokyumento no rebiyu komento ni taiou shite, shuuseiban wo ashitachuu ni teishutsu shimasu.",
+      "chinese": "将针对文档评审意见进行修改，明天提交修订版。",
+      "context": "技术文档创作与团队评审",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 45,
+      "episode": 2,
+      "japanese": "境界値分析に基づいてテストケースを設計してください。",
+      "romaji": "Kyoukai chi bunseki ni motozuite tesuto keisu wo sekkei shitekudasai.",
+      "chinese": "请基于边界值分析设计测试用例。",
+      "context": "功能测试与自动化测试实现",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 2,
+      "japanese": "自動化テストにはSeleniumを使用し、Pythonでスクリプトを作成します。",
+      "romaji": "Jidouka tesuto ni wa Selenium wo shiyou shi, Python de sukuripputo wo sakusei shimasu.",
+      "chinese": "自动化测试将使用Selenium，用Python编写脚本。",
+      "context": "功能测试与自动化测试实现",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 2,
+      "japanese": "負荷テストでは1000ユーザー同時接続を模擬します。応答時間を計測します。",
+      "romaji": "Fuka tesuto de wa 1000 yuzaa douji setsuzoku wo mohi shimasu. Oota jikan wo keisoku shimasu.",
+      "chinese": "负载测试将模拟1000用户同时连接，测量响应时间。",
+      "context": "功能测试与自动化测试实现",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 48,
+      "episode": 2,
+      "japanese": "リグレッションテストを実行して、新機能追加による副作用を確認します。",
+      "romaji": "Rigureshon tesuto wo jikkou shite, atarashii kinou tsuika ni yoru fukusayou wo kakunin shimasu.",
+      "chinese": "执行回归测试，确认新功能添加带来的副作用。",
+      "context": "功能测试与自动化测试实现",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 2,
+      "japanese": "テストデータはモックサーバーから生成します。本番データは使用しません。",
+      "romaji": "Tesuto deeta wa mokku saabaa kara seisei shimasu. Honban deeta wa shiyou shimasen.",
+      "chinese": "测试数据将从模拟服务器生成，不使用生产数据。",
+      "context": "功能测试与自动化测试实现",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 50,
+      "episode": 2,
+      "japanese": "今夜23時にデプロイメントを実施します。メンテナンスモードに入ります。",
+      "romaji": "Konya 23 ji ni deppuroimentu wo jisshi shimasu. Menntenansu moodo ni hairimasu.",
+      "chinese": "今晚23点将进行部署，进入维护模式。",
+      "context": "生产环境部署与版本管理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 51,
+      "episode": 2,
+      "japanese": "ロールバック計画を作成しておいてください。万が一の場合に備えます。",
+      "romaji": "Rooru bakku keikaku wo sakusei shite oite kudasai. Maga ino baai ni sonaemasu.",
+      "chinese": "请制定回滚计划，以备万一。",
+      "context": "生产环境部署与版本管理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 52,
+      "episode": 2,
+      "japanese": "バージョン番号はセマンティックバージョニングに従います。今回は1.2.0にします。",
+      "romaji": "Baajon bangou wa semantiku baajoningu ni shitagaimasu. Konkai wa 1.2.0 ni shimasu.",
+      "chinese": "版本号将遵循语义化版本控制，本次为1.2.0。",
+      "context": "生产环境部署与版本管理",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 53,
+      "episode": 2,
+      "japanese": "デプロイ後にスモークテストを実施し、基本機能を確認します。",
+      "romaji": "Deppuroi go ni sumooku tesuto wo jisshi shi, kihon kinou wo kakunin shimasu.",
+      "chinese": "部署后将进行冒烟测试，确认基本功能。",
+      "context": "生产环境部署与版本管理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 54,
+      "episode": 2,
+      "japanese": "コンテナイメージはDocker Hubにプッシュします。CI/CDパイプラインで自動化します。",
+      "romaji": "Kontena imeeji wa Docker Hub ni push shimasu. CI/CD paipurain de jidouka shimasu.",
+      "chinese": "容器镜像将推送到Docker Hub，通过CI/CD流水线自动化。",
+      "context": "生产环境部署与版本管理",
+      "difficulty": "advanced"
+    }
+  ]
+}

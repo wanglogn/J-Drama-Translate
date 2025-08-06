@@ -1,0 +1,87 @@
+{
+  "number": 3,
+  "title": "日本IT职场会话练习3",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 3,
+      "japanese": "皆さん、お疲れ様です。今回のOracleアップグレードで、一部のAPIが働かなくなったとの報告がありましたね。",
+      "romaji": "Minasan, otsukaresama desu. Konkai no Oracle appugureedo de, ichibu no API ga hataranakunatta to no houkoku ga arimashita ne.",
+      "chinese": "大家辛苦了。关于这次Oracle升级，有人报告说部分API无法正常工作。",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 2,
+      "episode": 3,
+      "japanese": "はい、特に「取引履歴取得API」でエラーが頻発しています。SQL構文が新バージョンと互換性がないようです。",
+      "romaji": "Hai, tokuni 'torihiki rireki shutoku API' de erā ga hinpatsu shiteimasu. SQL kōbun ga shin bājon to gokansei ga nai yō desu.",
+      "chinese": "是的，特别是“获取交易记录API〞频繁报错。看起来SQL语法与新版本不兼容。",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 3,
+      "episode": 3,
+      "japanese": "実は、旧バージョンでは暗黙的なJOINが許容されていましたが、今のバージョンでは明示的に書かないとエラーになります。",
+      "romaji": "",
+      "chinese": "其实，在旧版本中，隐式JOIN是允许的，但现在必须显式写出，否则就报错。",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 4,
+      "episode": 3,
+      "japanese": "それでテストで大量にエラーが出ていたんですね。エラー内容を詳細にログに残すよう修正してもらえますか？",
+      "romaji": "",
+      "chinese": "这就是测试中出现大量错误的原因吧。能否请你们把错误记录得更详细些？",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 5,
+      "episode": 3,
+      "japanese": "承知しました。SQL文を修正しつつ、ログ出力も強化します。",
+      "romaji": "",
+      "chinese": "明白，我会修正SQL语句，并加强日志输出。",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 6,
+      "episode": 3,
+      "japanese": "今後、APIごとにSQLバージョンのチェック項目を追加しましょう。佐藤さん、影響範囲を整理してもらえますか？",
+      "romaji": "",
+      "chinese": "今后每个API都要加上SQL版本检查。佐藤，你能整理一下受影响的部分吗？",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 7,
+      "episode": 3,
+      "japanese": "はい、今日中に全APIの依存SQLを洗い出して一覧化します。",
+      "romaji": "",
+      "chinese": "好的，今天之内我会把所有API依赖的SQL都列出来。",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 7,
+      "episode": 3,
+      "japanese": "助かります。明日の午後に再度状況を確認する会議を設定しましょう。",
+      "romaji": "",
+      "chinese": "太好了，我们明天下午再开会确认一下情况。",
+      "context": "",
+      "difficulty": ""
+    },
+    {
+      "id": 7,
+      "episode": 3,
+      "japanese": "",
+      "romaji": "",
+      "chinese": "",
+      "context": "",
+      "difficulty": ""
+    }
+  ]
+}

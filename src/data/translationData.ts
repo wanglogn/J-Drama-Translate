@@ -40,6 +40,11 @@ import marryBoyfriendEpisode12 from './shows/please-marry-my-boyfriend/episodes/
  import dailyConvEpisode11 from './shows/daily-conversations/episodes/episode11.json';
  import dailyConvEpisode12 from './shows/daily-conversations/episodes/episode12.json';
 
+ // 导入日本IT職場簡単会話
+ import itkaiwaEpisode1 from './shows/it-kanntann-kaiwa/episodes/episodes1.json';
+ import itkaiwaEpisode2 from './shows/it-kanntann-kaiwa/episodes/episodes2.json';
+ import itkaiwaEpisode3 from './shows/it-kanntann-kaiwa/episodes/episodes3.json';
+
 // 翻译项目接口定义
 export interface TranslationItem {
   id: number;
@@ -60,7 +65,7 @@ interface EpisodeData {
 
 // 按剧集组织所有数据
 const showData = {
-  'restart-life': {
+  "restart-life": {
     episodes: [
       restartLifeEpisode1,
       restartLifeEpisode2,
@@ -71,10 +76,10 @@ const showData = {
       restartLifeEpisode7,
       restartLifeEpisode8,
       restartLifeEpisode9,
-      restartLifeEpisode10
-    ] as EpisodeData[]
+      restartLifeEpisode10,
+    ] as EpisodeData[],
   },
-  'please-marry-my-boyfriend': {
+  "please-marry-my-boyfriend": {
     episodes: [
       marryBoyfriendEpisode1,
       marryBoyfriendEpisode2,
@@ -87,26 +92,33 @@ const showData = {
       marryBoyfriendEpisode9,
       marryBoyfriendEpisode10,
       marryBoyfriendEpisode11,
-      marryBoyfriendEpisode12
-    ] as EpisodeData[]
-   },
-   'daily-conversations': {
-     episodes: [
-       dailyConvEpisode1,
-       dailyConvEpisode2,
-       dailyConvEpisode3,
-       dailyConvEpisode4,
-       dailyConvEpisode5,
-       dailyConvEpisode6,
-       dailyConvEpisode7,
-       dailyConvEpisode8,
-       dailyConvEpisode9,
-       dailyConvEpisode10,
-       dailyConvEpisode11,
-       dailyConvEpisode12
-     ] as EpisodeData[]
-   }
- };
+      marryBoyfriendEpisode12,
+    ] as EpisodeData[],
+  },
+  "daily-conversations": {
+    episodes: [
+      dailyConvEpisode1,
+      dailyConvEpisode2,
+      dailyConvEpisode3,
+      dailyConvEpisode4,
+      dailyConvEpisode5,
+      dailyConvEpisode6,
+      dailyConvEpisode7,
+      dailyConvEpisode8,
+      dailyConvEpisode9,
+      dailyConvEpisode10,
+      dailyConvEpisode11,
+      dailyConvEpisode12,
+    ] as EpisodeData[],
+  },
+  "it-kanntann-kaiwa": {
+    episodes: [
+      itkaiwaEpisode1,
+      itkaiwaEpisode2,
+      itkaiwaEpisode3,
+    ] as EpisodeData[],
+  },
+};
 
 // 获取指定剧集的所有集数信息
 export const getEpisodesByShow = (showId: string) => {

@@ -1,0 +1,906 @@
+{
+  "number": 1,
+  "title": "日本IT职场会话练习100句",
+  "lines": [
+    {
+      "id": 1,
+      "episode": 1,
+      "japanese": "お疲れ様です。今日は何をしますか？",
+      "romaji": "Otsukaresama desu. Kyou wa nani o shimasu ka?",
+      "chinese": "辛苦了。今天要做什么？",
+      "context": "日常早上问候与工作安排",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 2,
+      "episode": 1,
+      "japanese": "はい、わかりました。すぐ対応します。",
+      "romaji": "Hai, wakarimashita. Sugu taiou shimasu.",
+      "chinese": "好的，知道了。我马上处理。",
+      "context": "接受任务的确认",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 3,
+      "episode": 1,
+      "japanese": "この仕様書を確認してもらえますか？",
+      "romaji": "Kono shiyousho o kakunin shite moraemasu ka?",
+      "chinese": "能帮我确认一下这个规格说明书吗？",
+      "context": "请求确认文件",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 4,
+      "episode": 1,
+      "japanese": "バグが見つかりました。修正が必要です。",
+      "romaji": "Bagu ga mitsukarimashita. Shūsei ga hitsuyō desu.",
+      "chinese": "发现了bug，需要修正。",
+      "context": "报告问题",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 5,
+      "episode": 1,
+      "japanese": "ミーティングは午後2時から始まります。",
+      "romaji": "Mītingu wa gogo ni-ji kara hajimarimasu.",
+      "chinese": "会议从下午2点开始。",
+      "context": "通知会议时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 6,
+      "episode": 1,
+      "japanese": "このコードのレビューをお願いします。",
+      "romaji": "Kono kōdo no rebyū o onegaishimasu.",
+      "chinese": "请帮我审核这段代码。",
+      "context": "请求代码审核",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 7,
+      "episode": 1,
+      "japanese": "作業の進捗はどうですか？",
+      "romaji": "Sagyou no shinchoku wa dō desu ka?",
+      "chinese": "工作进展如何？",
+      "context": "询问工作进度",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 8,
+      "episode": 1,
+      "japanese": "すみません、質問があります。",
+      "romaji": "Sumimasen, shitsumon ga arimasu.",
+      "chinese": "不好意思，我有个问题。",
+      "context": "提出问题",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 9,
+      "episode": 1,
+      "japanese": "今日のタスクは全部終わりましたか？",
+      "romaji": "Kyou no tasuku wa zenbu owarimashita ka?",
+      "chinese": "今天的任务全部完成了吗？",
+      "context": "确认任务完成情况",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 10,
+      "episode": 1,
+      "japanese": "新しいプロジェクトが始まります。",
+      "romaji": "Atarashii purojekuto ga hajimarimasu.",
+      "chinese": "新项目开始了。",
+      "context": "介绍新项目",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 11,
+      "episode": 2,
+      "japanese": "サーバーの調子が悪いです。",
+      "romaji": "Sābā no chōshi ga warui desu.",
+      "chinese": "服务器状态不好。",
+      "context": "报告服务器问题",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 12,
+      "episode": 2,
+      "japanese": "ログインできません。原因を調べてください。",
+      "romaji": "Roguin dekimasen. Genin o shirabete kudasai.",
+      "chinese": "无法登录，请调查原因。",
+      "context": "遇到登录问题",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 13,
+      "episode": 2,
+      "japanese": "会議資料をメールで送ってください。",
+      "romaji": "Kaigi shiryou o mēru de okutte kudasai.",
+      "chinese": "请把会议资料发邮件给我。",
+      "context": "请求资料发送",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 14,
+      "episode": 2,
+      "japanese": "このバグは緊急で直す必要があります。",
+      "romaji": "Kono bagu wa kinkyū de naosu hitsuyō ga arimasu.",
+      "chinese": "这个bug需要紧急修复。",
+      "context": "紧急问题说明",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 15,
+      "episode": 2,
+      "japanese": "明日の納期に間に合いそうですか？",
+      "romaji": "Ashita no nōki ni maiasō desu ka?",
+      "chinese": "能赶上明天的截止日期吗？",
+      "context": "确认截止时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 16,
+      "episode": 2,
+      "japanese": "新しいデザインを確認してください。",
+      "romaji": "Atarashii dezain o kakunin shite kudasai.",
+      "chinese": "请确认新的设计方案。",
+      "context": "确认设计",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 17,
+      "episode": 2,
+      "japanese": "テスト環境は準備できましたか？",
+      "romaji": "Tesuto kankyō wa junbi dekimashita ka?",
+      "chinese": "测试环境准备好了吗？",
+      "context": "询问测试环境",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 18,
+      "episode": 2,
+      "japanese": "仕様変更がありますので、ご注意ください。",
+      "romaji": "Shiyō henkō ga arimasu node, gochūi kudasai.",
+      "chinese": "有规格变更，请注意。",
+      "context": "告知规格变更",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 19,
+      "episode": 2,
+      "japanese": "資料をまとめて報告してください。",
+      "romaji": "Shiryō o matomete hōkoku shite kudasai.",
+      "chinese": "请整理资料后汇报。",
+      "context": "请求汇报",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 20,
+      "episode": 2,
+      "japanese": "次のミーティングは来週の月曜日です。",
+      "romaji": "Tsugi no mītingu wa raishū no getsuyōbi desu.",
+      "chinese": "下一次会议是下周一。",
+      "context": "安排会议时间",
+      "difficulty": "beginner"
+    },
+    {
+      "id": 21,
+      "episode": 3,
+      "japanese": "コードの最適化をお願いします。",
+      "romaji": "Kōdo no saiteki-ka o onegaishimasu.",
+      "chinese": "请优化代码。",
+      "context": "请求代码优化",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "episode": 3,
+      "japanese": "ドキュメントはどこにありますか？",
+      "romaji": "Dokyumento wa doko ni arimasu ka?",
+      "chinese": "文档在哪里？",
+      "context": "询问文档位置",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "episode": 3,
+      "japanese": "新しいフレームワークを使ってみましょう。",
+      "romaji": "Atarashii furēmuwāku o tsukattemimashou.",
+      "chinese": "试试用新的框架吧。",
+      "context": "建议使用新技术",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "episode": 3,
+      "japanese": "サーバーの負荷が高いです。",
+      "romaji": "Sābā no fuka ga takai desu.",
+      "chinese": "服务器负载很高。",
+      "context": "报告服务器负载",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "episode": 3,
+      "japanese": "ログを確認して問題を探しましょう。",
+      "romaji": "Rogu o kakunin shite mondai o sagashimashou.",
+      "chinese": "确认日志找问题吧。",
+      "context": "分析日志排查问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "episode": 3,
+      "japanese": "パフォーマンスが遅いので改善が必要です。",
+      "romaji": "Pafōmansu ga osoi node kaizen ga hitsuyō desu.",
+      "chinese": "性能很慢，需要改进。",
+      "context": "性能优化需求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "episode": 3,
+      "japanese": "APIの仕様を教えてください。",
+      "romaji": "API no shiyō o oshiete kudasai.",
+      "chinese": "请告诉我API的规格。",
+      "context": "请求接口文档",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "episode": 3,
+      "japanese": "デプロイはいつ行いますか？",
+      "romaji": "Depuroi wa itsu okonaimasu ka?",
+      "chinese": "什么时候部署？",
+      "context": "询问部署时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "episode": 3,
+      "japanese": "コードのバージョン管理はどうしていますか？",
+      "romaji": "Kōdo no bājon kanri wa dō shiteimasu ka?",
+      "chinese": "代码版本管理是怎么做的？",
+      "context": "询问版本管理方式",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "episode": 3,
+      "japanese": "この部分の実装を手伝ってもらえますか？",
+      "romaji": "Kono bubun no jissō o tetsudatte moraemasu ka?",
+      "chinese": "能帮忙实现这部分吗？",
+      "context": "请求协助开发",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "episode": 4,
+      "japanese": "プロジェクトの進捗報告をお願いします。",
+      "romaji": "Purojekuto no shinchoku hōkoku o onegaishimasu.",
+      "chinese": "请汇报项目进展。",
+      "context": "请求进度汇报",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "episode": 4,
+      "japanese": "問題が発生した場合、すぐ連絡してください。",
+      "romaji": "Mondai ga hassei shita baai, sugu renraku shite kudasai.",
+      "chinese": "出现问题时请马上联系。",
+      "context": "紧急联络说明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "episode": 4,
+      "japanese": "ドキュメントの更新が必要です。",
+      "romaji": "Dokyumento no kōshin ga hitsuyō desu.",
+      "chinese": "需要更新文档。",
+      "context": "说明文档需要更新",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "episode": 4,
+      "japanese": "新機能のテストを始めましょう。",
+      "romaji": "Shinkinō no tesuto o hajimemashou.",
+      "chinese": "开始新功能的测试吧。",
+      "context": "安排测试",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "episode": 4,
+      "japanese": "コードのバグを修正しました。",
+      "romaji": "Kōdo no bagu o shūsei shimashita.",
+      "chinese": "修正了代码中的bug。",
+      "context": "汇报修复情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "episode": 4,
+      "japanese": "リリースの準備が整いました。",
+      "romaji": "Rirīsu no junbi ga totonoimashita.",
+      "chinese": "发布准备就绪。",
+      "context": "发布准备汇报",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "episode": 4,
+      "japanese": "質問があれば、遠慮なく聞いてください。",
+      "romaji": "Shitsumon ga areba, enryo naku kiite kudasai.",
+      "chinese": "有问题请尽管问。",
+      "context": "鼓励提问",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "episode": 4,
+      "japanese": "ドキュメントを共有しました。",
+      "romaji": "Dokyumento o kyōyū shimashita.",
+      "chinese": "已共享文档。",
+      "context": "通知文档共享",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "episode": 4,
+      "japanese": "次のスプリントで対応しましょう。",
+      "romaji": "Tsugi no supurinto de taiō shimashou.",
+      "chinese": "下一个冲刺周期处理吧。",
+      "context": "安排开发周期",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "episode": 4,
+      "japanese": "お疲れ様でした。今日はここまでにしましょう。",
+      "romaji": "Otsukaresama deshita. Kyou wa koko made ni shimashou.",
+      "chinese": "辛苦了，今天就到这里吧。",
+      "context": "一天工作结束时",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "episode": 5,
+      "japanese": "次のタスクは何ですか？",
+      "romaji": "Tsugi no tasuku wa nan desu ka?",
+      "chinese": "下一个任务是什么？",
+      "context": "询问下一步任务",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "episode": 5,
+      "japanese": "仕様をもう一度確認しましょう。",
+      "romaji": "Shiyō o mō ichido kakunin shimashou.",
+      "chinese": "再确认一次规格吧。",
+      "context": "复核规格要求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "episode": 5,
+      "japanese": "テストケースを作成してください。",
+      "romaji": "Tesuto kēsu o sakusei shite kudasai.",
+      "chinese": "请制作测试用例。",
+      "context": "请求制作测试用例",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "episode": 5,
+      "japanese": "パフォーマンス改善の提案があります。",
+      "romaji": "Pafōmansu kaizen no teian ga arimasu.",
+      "chinese": "我有性能改进的建议。",
+      "context": "提出优化建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "episode": 5,
+      "japanese": "ドキュメントの誤りを修正しました。",
+      "romaji": "Dokyumento no ayamari o shūsei shimashita.",
+      "chinese": "修正了文档中的错误。",
+      "context": "修正文档",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "episode": 5,
+      "japanese": "この機能はまだ開発中です。",
+      "romaji": "Kono kinō wa mada kaihatsu-chū desu.",
+      "chinese": "这个功能还在开发中。",
+      "context": "说明开发状态",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "episode": 5,
+      "japanese": "クライアントからのフィードバックを待っています。",
+      "romaji": "Kuraianto kara no fīdobakku o matteimasu.",
+      "chinese": "正在等待客户的反馈。",
+      "context": "等待客户回复",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "episode": 5,
+      "japanese": "この問題は優先的に対応しましょう。",
+      "romaji": "Kono mondai wa yūsenteki ni taiō shimashou.",
+      "chinese": "优先处理这个问题吧。",
+      "context": "优先级安排",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "episode": 5,
+      "japanese": "セキュリティチェックを実施しましたか？",
+      "romaji": "Sekyuriti chekku o jisshi shimashita ka?",
+      "chinese": "做了安全检查吗？",
+      "context": "询问安全检测",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "episode": 5,
+      "japanese": "残業は今週も続きそうです。",
+      "romaji": "Zangyō wa konshū mo tsuzukisō desu.",
+      "chinese": "这周加班可能还会继续。",
+      "context": "谈论加班情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 51,
+      "episode": 6,
+      "japanese": "このバグは再現できますか？",
+      "romaji": "Kono bagu wa saigen dekimasu ka?",
+      "chinese": "能重现这个bug吗？",
+      "context": "确认问题重现",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 52,
+      "episode": 6,
+      "japanese": "コードのコメントが不足しています。",
+      "romaji": "Kōdo no komento ga fusoku shiteimasu.",
+      "chinese": "代码注释不够。",
+      "context": "反馈代码注释情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 53,
+      "episode": 6,
+      "japanese": "リリース日を変更しましょう。",
+      "romaji": "Rirīsu-bi o henkō shimashou.",
+      "chinese": "更改发布日期吧。",
+      "context": "调整发布时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 54,
+      "episode": 6,
+      "japanese": "仕様通りに動作していますか？",
+      "romaji": "Shiyō dōri ni dōsa shiteimasu ka?",
+      "chinese": "按规格正常运行吗？",
+      "context": "确认功能正常",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 55,
+      "episode": 6,
+      "japanese": "テスト結果を共有してください。",
+      "romaji": "Tesuto kekka o kyōyū shite kudasai.",
+      "chinese": "请分享测试结果。",
+      "context": "请求测试报告",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 56,
+      "episode": 6,
+      "japanese": "ドキュメントは最新のものですか？",
+      "romaji": "Dokyumento wa saishin no mono desu ka?",
+      "chinese": "文档是最新的吗？",
+      "context": "确认文档版本",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 57,
+      "episode": 6,
+      "japanese": "新しいバージョンをリリースしました。",
+      "romaji": "Atarashii bājon o rirīsu shimashita.",
+      "chinese": "发布了新版本。",
+      "context": "发布新版本",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 58,
+      "episode": 6,
+      "japanese": "今週のタスクを整理しましょう。",
+      "romaji": "Konshū no tasuku o seiri shimashou.",
+      "chinese": "整理本周任务吧。",
+      "context": "安排任务计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 59,
+      "episode": 6,
+      "japanese": "コードのマージをお願いします。",
+      "romaji": "Kōdo no māji o onegaishimasu.",
+      "chinese": "请合并代码。",
+      "context": "请求合并代码",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 60,
+      "episode": 6,
+      "japanese": "バージョン管理システムを使っていますか？",
+      "romaji": "Bājon kanri shisutemu o tsukatteimasu ka?",
+      "chinese": "你们用版本管理系统吗？",
+      "context": "询问使用工具",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 61,
+      "episode": 7,
+      "japanese": "レビューコメントを反映しました。",
+      "romaji": "Rebyū komento o han'ei shimashita.",
+      "chinese": "已反映审核意见。",
+      "context": "代码审核反馈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 62,
+      "episode": 7,
+      "japanese": "仕様変更に対応しました。",
+      "romaji": "Shiyō henkō ni taiō shimashita.",
+      "chinese": "已应对规格变更。",
+      "context": "反馈变更处理",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 63,
+      "episode": 7,
+      "japanese": "テストを完了しました。",
+      "romaji": "Tesuto o kanryō shimashita.",
+      "chinese": "测试已完成。",
+      "context": "汇报测试完成",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 64,
+      "episode": 7,
+      "japanese": "新機能の設計書を作成しています。",
+      "romaji": "Shinkinō no sekkeisho o sakusei shiteimasu.",
+      "chinese": "正在制作新功能的设计书。",
+      "context": "设计书制作中",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 65,
+      "episode": 7,
+      "japanese": "バグ修正の優先順位を教えてください。",
+      "romaji": "Bagu shūsei no yūsen jun'i o oshiete kudasai.",
+      "chinese": "请告诉我修复bug的优先级。",
+      "context": "询问优先级",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 66,
+      "episode": 7,
+      "japanese": "スプリントレビューの日程を決めましょう。",
+      "romaji": "Supurinto rebyū no nittei o kimemashou.",
+      "chinese": "决定冲刺评审的日期吧。",
+      "context": "安排会议时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 67,
+      "episode": 7,
+      "japanese": "ドキュメントのテンプレートを更新しました。",
+      "romaji": "Dokyumento no tenpurēto o kōshin shimashita.",
+      "chinese": "更新了文档模板。",
+      "context": "文档模板更新",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 68,
+      "episode": 7,
+      "japanese": "リファクタリングを進めています。",
+      "romaji": "Rifakutaringu o susumeteimasu.",
+      "chinese": "正在推进重构工作。",
+      "context": "重构工作说明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 69,
+      "episode": 7,
+      "japanese": "今週のスプリントの目標を確認しましょう。",
+      "romaji": "Konshū no supurinto no mokuhyō o kakunin shimashou.",
+      "chinese": "确认本周冲刺目标吧。",
+      "context": "确认目标",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 70,
+      "episode": 7,
+      "japanese": "コードのパフォーマンスが向上しました。",
+      "romaji": "Kōdo no pafōmansu ga kōjō shimashita.",
+      "chinese": "代码性能提高了。",
+      "context": "性能提升汇报",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 71,
+      "episode": 8,
+      "japanese": "バグの原因を特定しました。",
+      "romaji": "Bagu no gen'in o tokutei shimashita.",
+      "chinese": "确定了bug的原因。",
+      "context": "问题定位",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 72,
+      "episode": 8,
+      "japanese": "テストケースを追加しました。",
+      "romaji": "Tesuto kēsu o tsuika shimashita.",
+      "chinese": "增加了测试用例。",
+      "context": "增加测试内容",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 73,
+      "episode": 8,
+      "japanese": "コードレビューが完了しました。",
+      "romaji": "Kōdo rebyū ga kanryō shimashita.",
+      "chinese": "代码审核完成了。",
+      "context": "代码审核完成汇报",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 74,
+      "episode": 8,
+      "japanese": "納期を延長する必要があります。",
+      "romaji": "Nōki o enchō suru hitsuyō ga arimasu.",
+      "chinese": "需要延长截止日期。",
+      "context": "调整截止时间",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 75,
+      "episode": 8,
+      "japanese": "障害対応に取り掛かります。",
+      "romaji": "Shougai taiō ni torikakarimasu.",
+      "chinese": "开始处理故障。",
+      "context": "开始处理问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 76,
+      "episode": 8,
+      "japanese": "進捗管理ツールを使っていますか？",
+      "romaji": "Shinchoku kanri tsūru o tsukatteimasu ka?",
+      "chinese": "使用进度管理工具吗？",
+      "context": "询问工具使用",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 77,
+      "episode": 8,
+      "japanese": "ドキュメントの不備を見つけました。",
+      "romaji": "Dokyumento no fubi o mitsukemashita.",
+      "chinese": "发现了文档缺陷。",
+      "context": "发现文档问题",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 78,
+      "episode": 8,
+      "japanese": "新しい技術を導入しましょう。",
+      "romaji": "Atarashii gijutsu o dōnyū shimashou.",
+      "chinese": "引入新技术吧。",
+      "context": "提议采用新技术",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 79,
+      "episode": 8,
+      "japanese": "コードの品質を向上させる必要があります。",
+      "romaji": "Kōdo no hinshitsu o kōjō saseru hitsuyō ga arimasu.",
+      "chinese": "需要提升代码质量。",
+      "context": "代码质量要求",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 80,
+      "episode": 8,
+      "japanese": "この機能はまだテスト中です。",
+      "romaji": "Kono kinō wa mada tesuto-chū desu.",
+      "chinese": "这个功能还在测试中。",
+      "context": "测试阶段说明",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 81,
+      "episode": 9,
+      "japanese": "セキュリティの脆弱性を修正しました。",
+      "romaji": "Sekyuriti no zeijakusei o shūsei shimashita.",
+      "chinese": "修复了安全漏洞。",
+      "context": "安全问题修复",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 82,
+      "episode": 9,
+      "japanese": "ユーザーからの問い合わせが増えています。",
+      "romaji": "Yūzā kara no toiawase ga fueteimasu.",
+      "chinese": "用户咨询增多了。",
+      "context": "客户反馈情况",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 83,
+      "episode": 9,
+      "japanese": "システムの負荷テストを実施しました。",
+      "romaji": "Shisutemu no fuka tesuto o jisshi shimashita.",
+      "chinese": "进行了系统负载测试。",
+      "context": "性能测试报告",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 84,
+      "episode": 9,
+      "japanese": "トラブルシューティングを始めます。",
+      "romaji": "Toraburushūtingu o hajimemasu.",
+      "chinese": "开始故障排除。",
+      "context": "开始排查故障",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 85,
+      "episode": 9,
+      "japanese": "新しい環境に移行しました。",
+      "romaji": "Atarashii kankyō ni ikō shimashita.",
+      "chinese": "已迁移到新环境。",
+      "context": "环境迁移汇报",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 86,
+      "episode": 9,
+      "japanese": "チームで協力して問題を解決しましょう。",
+      "romaji": "Chīmu de kyōryoku shite mondai o kaiketsu shimashou.",
+      "chinese": "团队协作解决问题吧。",
+      "context": "鼓励团队合作",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 87,
+      "episode": 9,
+      "japanese": "会議の議事録を作成しました。",
+      "romaji": "Kaigi no gijiroku o sakusei shimashita.",
+      "chinese": "制作了会议记录。",
+      "context": "会议记录完成",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 88,
+      "episode": 9,
+      "japanese": "仕様書を再確認しましょう。",
+      "romaji": "Shiyōsho o saikakunin shimashou.",
+      "chinese": "再次确认规格说明书。",
+      "context": "复核文件",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 89,
+      "episode": 9,
+      "japanese": "納期に遅れそうです。",
+      "romaji": "Nōki ni okuresō desu.",
+      "chinese": "可能赶不上截止日期。",
+      "context": "告知延期风险",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 90,
+      "episode": 9,
+      "japanese": "この機能はクライアントに好評です。",
+      "romaji": "Kono kinō wa kuraianto ni kōhyou desu.",
+      "chinese": "这个功能客户评价很好。",
+      "context": "客户反馈",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 91,
+      "episode": 10,
+      "japanese": "今週のタスクを優先順位で整理しましょう。",
+      "romaji": "Konshū no tasuku o yūsen jun'i de seiri shimashou.",
+      "chinese": "整理本周任务的优先级。",
+      "context": "任务优先级安排",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 92,
+      "episode": 10,
+      "japanese": "このAPIは非推奨です。",
+      "romaji": "Kono API wa hi suishō desu.",
+      "chinese": "这个API已不推荐使用。",
+      "context": "告知废弃接口",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 93,
+      "episode": 10,
+      "japanese": "ドキュメントの翻訳をお願いします。",
+      "romaji": "Dokyumento no hon'yaku o onegaishimasu.",
+      "chinese": "请帮忙翻译文档。",
+      "context": "请求翻译",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 94,
+      "episode": 10,
+      "japanese": "このコードはリファクタリングが必要です。",
+      "romaji": "Kono kōdo wa rifakutaringu ga hitsuyō desu.",
+      "chinese": "这段代码需要重构。",
+      "context": "代码重构建议",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 95,
+      "episode": 10,
+      "japanese": "ミーティングの議題を共有してください。",
+      "romaji": "Mītingu no gidai o kyōyū shite kudasai.",
+      "chinese": "请分享会议议题。",
+      "context": "会议议题共享",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 96,
+      "episode": 10,
+      "japanese": "障害発生時の対応フローを確認しましょう。",
+      "romaji": "Shougai hassei-ji no taiō furō o kakunin shimashou.",
+      "chinese": "确认故障发生时的应对流程。",
+      "context": "确认应急流程",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 97,
+      "episode": 10,
+      "japanese": "バージョンアップの計画を立てましょう。",
+      "romaji": "Bājon appu no keikaku o tatemashou.",
+      "chinese": "制定版本升级计划。",
+      "context": "制定升级计划",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 98,
+      "episode": 10,
+      "japanese": "テスト環境で動作確認をお願いします。",
+      "romaji": "Tesuto kankyō de dōsa kakunin o onegaishimasu.",
+      "chinese": "请在测试环境确认运行情况。",
+      "context": "请求测试确认",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 99,
+      "episode": 10,
+      "japanese": "チームのコミュニケーションを活発にしましょう。",
+      "romaji": "Chīmu no komyunikēshon o kappatsu ni shimashou.",
+      "chinese": "活跃团队沟通吧。",
+      "context": "鼓励沟通",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 100,
+      "episode": 10,
+      "japanese": "お疲れ様でした。明日もよろしくお願いします。",
+      "romaji": "Otsukaresama deshita. Ashita mo yoroshiku onegaishimasu.",
+      "chinese": "辛苦了，明天也请多关照。",
+      "context": "结束一天工作",
+      "difficulty": "intermediate"
+    }
+  ]
+}
