@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main  # 你也可以改成 master 或其他分支名
-
+permissions:
+  contents: write  # ✅ 关键！让 github-actions 可以 push
+  
 jobs:
   deploy:
     runs-on: ubuntu-latest
