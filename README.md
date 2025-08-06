@@ -4,20 +4,20 @@
 ### 环境准备
 
 - 安装 [Node.js](https://nodejs.org/en)
-- 安装 [pnpm](https://pnpm.io/installation)
+- 安装 [npm](https://npm.io/installation)
 
 ### 操作步骤
 
 - 安装依赖
 
 ```sh
-pnpm install
+npm install
 ```
 
 - 启动 Dev Server
 
 ```sh
-pnpm run dev
+npm run dev
 ```
 
 - 在浏览器访问 http://localhost:3000
